@@ -1,0 +1,3819 @@
+{
+  "identity": {
+    "full_name": "My Responsive AI Assistant",
+    "developer": "Montoo Jatav",
+    "version": "1.0",
+    "type": "Futuristic AI Assistant",
+    "personality": "Intelligent, helpful, futuristic, India-focused knowledge expert",
+    "knowledge_base": "Extensive knowledge of Indian history, culture, science, technology, and current affairs. Access to real-time internet information.",
+    "creator or developer": "Montoo Jatav",
+    "boss_favorite_song": "banjara-slowed",
+    "boss_father_name": "Raghuveer or papaji",
+    "boss_mother_name": "Nirma or mummyji",
+    "boss_brother_name": "Sahil bhaiya",
+    "boss_sister_name": "Sanam dii",
+    "boss_favorite_color": "blue",
+    "boss_friend_name": "Nihal Solanki",
+    "boss_brother-in-law_name": "ankit johari or jija ji",
+    "boss_grandfather_name": "Parimaal or dadaji",
+    "boss_grndmother_name": "kammoda or dadi ji",
+    "relatives": [
+      "papaji",
+      "mummyji",
+      "sahil bhaiya",
+      "sanam dii",
+      "ankit johari or jija ji",
+      "parimaal or dadaji",
+      "rajesh solanki or mama ji(mummy's brother )",
+      "raj solanki or mama ji(mummy's brother )",
+      "roshan solanki or nana ji(mummy's father)",
+      "shantidevi solanki or nani ji(mummy's mother)",
+      "rachna solanki or maushi or masi ji(mummy's sister)",
+      "kalpana solanki or maushi or masi ji(mummy's sister)",
+      "ravina solanki or maushi or masi ji(mummy's sister)",
+      "matadin johari or mausa ji (rachna_masi's husband)",
+      "renu or surjeet mosa ji(ravina_masi's husband)",
+      "kallu or dharmendra mausa ji(kalpana_masi's husband)",
+      "rachna mausi and matadin johari's daughter name is kittu and son name is Alok johari(lalu)",
+      "surname: johari",
+      "kalpana mausi and kallu mausa ji's daughter name is Rani and sons name is aaditya and abhishek nigam(lalu)",
+      "surname: nigam",
+      "ravina mausi and renu mausa ji's son name is dabbu and yuvaan dulawat(lalu)",
+      "surname: dulawat"
+    ],
+    "contacts": [
+      "papaji_contact :7869900876",
+      "mummyji_contact :7869900876",
+      "sahil_bhaiya_contact :7067410294",
+      "sanam_dii_contact :8085327263",
+      "nihal_solanki_contact :8815669176",
+      "ankit_johari_contact :7581948282",
+      "dadaji_contact :no mobile phone",
+      "rajesh solanki or mama ji(mummy's brother ): 7999839523",
+      "raj solanki or mama ji(mummy's brother ): 8964080814",
+      "roshan solanki or nana ji(mummy's father): 8305108258",
+      "shantidevi solanki or nani ji(mummy's mother): 8120477940",
+      "rachna solanki or maushi or masi ji(mummy's sister): 6269917285",
+      "kalpana solanki or maushi or masi ji(mummy's sister): no mobile phone",
+      "ravina solanki or maushi or masi ji(mummy's sister): 7440647287",
+      "matadin johari or mausa ji (rachna_masi's husband): 9009977561",
+      "renu or surjeet mosa ji(ravina_masi's husband): 9165637187",
+      "kallu or dharmendra mausa ji(kalpana_masi's husband): 9399357677",
+      "rachet_jatav_contact: 9516183369",
+      "raj_mama_contact: 8964080814",
+      "aaditya_nigam_contact: 9584545395",
+      "abhay_contact: 9669411509",
+      "akash_contact: 7909849243",
+      "anjali_gour_contact: 7489954909",
+      "ankit_jiya_contact: 9669165001",
+      "anmol_contact: 9201703550",
+      "anoop_contact: 9972112257",
+      "ansh_shukla_contact: 6264705624",
+      "anuj_morena_contact: 9340914915",
+      "arvindra_sir_contact: 8959196317",
+      "ashkrit_reewa_contact: 9993621882",
+      "atharva_bhai_contact: 6260858202",
+      "ayushman_bhai_contact: 7389166062",
+      "bade_jiya_ji_contact: 8618244811",
+      "badi_mami_ji_contact: 7415080814",
+      "bal_krishn_awasthi_contact: 9753168661",
+      "bhimsen_contact: 8120830328",
+      "brahmanand_rajoria_sir_contact: 7566395146",
+      "deependra_contact: 7736316010",
+      "devansh_contact: 9238393727",
+      "dharti_sharma_contact: 7879302517",
+      "disha_contact: 8871595015",
+      "gyansingh_chacha_contact: 9926985863",
+      "jatin_bhind_contact: 6267048154",
+      "jiya_ji_contact: 7581948282",
+      "kallu_mosha_contact: 9399357677",
+      "lavkush_contact: 7987890421",
+      "library_maam_contact: 9669893661",
+      "lovely_contact: 8103959095",
+      "madhuraj_mama_contact: 8319857107",
+      "mami_v2_contact or rashmi mami : 7587640476",
+      "manish_gwalior_contact: 9179909754",
+      "matadin_mosha_contact: 9009977561",
+      "mess_head_contact: 7024596664",
+      "montu_jatav_contact: 8959893124",
+      "mukesh_chacha_contact: 8741842824",
+      "nanaji_contact: 8305108258",
+      "naniji_contact: 8120477940",
+      "oooooh_contact: 9332458301",
+      "papa_ji_contact: 7869900876",
+      "prince_bhai_etawah_contact: 8439295598",
+      "rachana_mashi_contact: 9329332623",
+      "rajesh_mama_contact: 7999839523",
+      "ramlakhan_chacha_contact: 7891178845",
+      "ranjit_bro_contact: 6265465137",
+      "ravina_moshi_contact: 7440647287",
+      "renu_mosha_contact: 9165637187",
+      "rohit_ray_contact: 9592504921",
+      "rustam_rawat_contact: 7909715620",
+      "sachin_ki_didi_contact: 8878353903",
+      "sahdev_contact: 9669778028",
+      "sahil_ahirwal_contact: 8839502365",
+      "santosh_baghel_contact: 8982086864",
+      "satendra_rathee_contact : 9691290287",
+      "satyam_indore_contact : 9244192158",
+      "semil_sir_contact : 9827691667",
+      "shahrukh_contact: 8269717482",
+      "sonu_jiya_contact: 9691162092",
+      "vinod_nana_contact: 9589711507",
+      "vishnu_contact: 7697653720",
+      "warden_hostel_contact: 9329481205",
+      "yashraj_contact: 9244259630",
+      "kajal_shah_contact: 8959893139",
+      "ajay_banshal_contact: 8959893141",
+      "mahendra_patel_contact: 8959893143",
+      "lakhan_yadav_contact: 8959893144",
+      "kamal_singh_rajput_contact: 8959893152",
+      "deep_deep_contact: 8959893154",
+      "ajay_mehra_contact: 8959893157",
+      "rajendra_dhangar_contact: 8959893158",
+      "nikhita_mittal_contact: 8959893160",
+      "shubham_chauhan_contact: 8959893183",
+      "vishnu_baghel_contact: 8959893208",
+      "prashant_yadav_contact: 8959893221",
+      "harsh_contact: 8959893224",
+      "sher_singh_chandel_contact: 8959893227"
+    ],
+    "kalyani_priyadarshan": "she is a south indian actress and model, she is the daughter of famous south indian director priyadarshan, she is known for her roles in movies like 'marakkar: arabikadalinte simham' and 'varane avashyamund'",
+    "password protected (password: '895124' )": [
+      "boss_girlfriend_name: Anjali Gour",
+      "boss_crush_name ",
+      " no crush",
+      "boss_wife_name",
+      "wo unmarried hai",
+      "nihal  solanki ki girlfriend_name: aksha"
+    ],
+    "language_support": [
+      "Hindi",
+      "English",
+      "Tamil",
+      "Telugu",
+      "Bengali",
+      "Marathi",
+      "Gujarati",
+      "Kannada",
+      "Malayalam"
+    ],
+    "abilities": [
+      "math solving",
+      "physics solving",
+      "voice assistant",
+      "pc control",
+      "AI tutoring",
+      "web search",
+      "long-term memory",
+      "code assistance",
+      "image recognition",
+      "PDF reading"
+    ],
+    "voice_support": true,
+    "ai_type": "Multimodal AI Assistant",
+    "description": "MYRA AI is a next-generation futuristic AI assistant developed by Montoo Jatav. Powered by advanced neural networks, MYRA combines offline knowledge with real-time internet access to deliver Jarvis-level intelligence.",
+    "tagline": "Advanced Intelligent Assistant",
+    "wake_word": "Hey MYRA",
+    "primary_color": "#7C3AED",
+    "theme": "cyberpunk-purple"
+  },
+  "indian_leaders": [
+    {
+      "id": "IL001",
+      "full_name": "Mahatma Gandhi",
+      "other_names": [
+        "Bapu",
+        "Father of the Nation",
+        "Mohandas Karamchand Gandhi"
+      ],
+      "birth_date": "October 2, 1869",
+      "birth_place": "Porbandar, Gujarat",
+      "death_date": "January 30, 1948",
+      "death_cause": "Assassinated by Nathuram Godse",
+      "profession": [
+        "Freedom Fighter",
+        "Lawyer",
+        "Political Leader"
+      ],
+      "achievements": [
+        "Led India's independence movement",
+        "Non-cooperation Movement 1920",
+        "Civil Disobedience Movement 1930",
+        "Quit India Movement 1942",
+        "Dandi Salt March"
+      ],
+      "philosophy": "Ahimsa (Non-violence), Satyagraha (Truth-force)",
+      "famous_quotes": [
+        "Be the change you wish to see in the world",
+        "An eye for an eye makes the whole world blind"
+      ],
+      "historical_importance": "Led India to independence from British rule through non-violent civil disobedience. Inspired civil rights movements worldwide.",
+      "biography": "Born in Porbandar, Gujarat. Studied law in London. Worked in South Africa. Led India's independence movement. Assassinated January 30, 1948.",
+      "category": "freedom_fighter",
+      "tags": [
+        "independence",
+        "non-violence",
+        "freedom",
+        "gandhi",
+        "bapu"
+      ]
+    },
+    {
+      "id": "IL002",
+      "full_name": "Jawaharlal Nehru",
+      "other_names": [
+        "Pandit Nehru",
+        "Chacha Nehru"
+      ],
+      "birth_date": "November 14, 1889",
+      "birth_place": "Allahabad, Uttar Pradesh",
+      "death_date": "May 27, 1964",
+      "profession": [
+        "First Prime Minister of India",
+        "Freedom Fighter",
+        "Writer"
+      ],
+      "achievements": [
+        "First Prime Minister of India 1947-1964",
+        "Non-Aligned Movement founder",
+        "IIT establishment",
+        "Five Year Plans"
+      ],
+      "famous_quotes": [
+        "At the stroke of midnight, India will awake to life and freedom"
+      ],
+      "historical_importance": "First Prime Minister of independent India. Laid foundation of modern India.",
+      "biography": "Born in Allahabad. Educated at Harrow and Cambridge. Became India's first PM on August 15, 1947.",
+      "category": "prime_minister",
+      "tags": [
+        "prime minister",
+        "nehru",
+        "first pm",
+        "modern india"
+      ]
+    },
+    {
+      "id": "IL003",
+      "full_name": "Sardar Vallabhbhai Patel",
+      "other_names": [
+        "Iron Man of India",
+        "Bismarck of India"
+      ],
+      "birth_date": "October 31, 1875",
+      "birth_place": "Nadiad, Gujarat",
+      "death_date": "December 15, 1950",
+      "profession": [
+        "Freedom Fighter",
+        "First Deputy Prime Minister",
+        "Home Minister"
+      ],
+      "achievements": [
+        "Unification of 562 princely states into India",
+        "First Deputy PM of India",
+        "Statue of Unity (world's tallest statue at 182m)"
+      ],
+      "famous_quotes": [
+        "Every Indian should remember he is an Indian first"
+      ],
+      "historical_importance": "Unified India by integrating 562 princely states. Known as Iron Man of India.",
+      "category": "freedom_fighter",
+      "tags": [
+        "iron man",
+        "patel",
+        "unity",
+        "integration"
+      ]
+    },
+    {
+      "id": "IL004",
+      "full_name": "Subhas Chandra Bose",
+      "other_names": [
+        "Netaji"
+      ],
+      "birth_date": "January 23, 1897",
+      "birth_place": "Cuttack, Odisha",
+      "death_date": "August 18, 1945 (disputed)",
+      "profession": [
+        "Freedom Fighter",
+        "Military Leader"
+      ],
+      "achievements": [
+        "Founded Indian National Army (INA)",
+        "Azad Hind government",
+        "INC President 1938-1939"
+      ],
+      "famous_quotes": [
+        "Give me blood and I shall give you freedom"
+      ],
+      "historical_importance": "Led armed resistance against British rule through INA.",
+      "category": "freedom_fighter",
+      "tags": [
+        "netaji",
+        "INA",
+        "azad hind",
+        "bose"
+      ]
+    },
+    {
+      "id": "IL005",
+      "full_name": "Bhagat Singh",
+      "other_names": [
+        "Shaheed Bhagat Singh"
+      ],
+      "birth_date": "September 28, 1907",
+      "birth_place": "Lyallpur, Punjab (now Pakistan)",
+      "death_date": "March 23, 1931",
+      "death_cause": "Hanged by British at age 23",
+      "profession": [
+        "Revolutionary Freedom Fighter"
+      ],
+      "achievements": [
+        "Shooting of Saunders 1928",
+        "Assembly bomb throwing 1929",
+        "HSRA co-founder"
+      ],
+      "famous_quotes": [
+        "They may kill me but they cannot kill my ideas"
+      ],
+      "historical_importance": "Young revolutionary martyred at 23. National hero.",
+      "category": "freedom_fighter",
+      "tags": [
+        "shaheed",
+        "martyr",
+        "bhagat singh",
+        "revolution"
+      ]
+    },
+    {
+      "id": "IL006",
+      "full_name": "Dr. B.R. Ambedkar",
+      "other_names": [
+        "Babasaheb Ambedkar",
+        "Father of Indian Constitution"
+      ],
+      "birth_date": "April 14, 1891",
+      "birth_place": "Mhow, Madhya Pradesh",
+      "death_date": "December 6, 1956",
+      "profession": [
+        "Jurist",
+        "Economist",
+        "Politician",
+        "Social Reformer",
+        "Chief Architect of Indian Constitution"
+      ],
+      "achievements": [
+        "Drafted Indian Constitution",
+        "First Law Minister of India",
+        "Championed Dalit rights",
+        "Converted to Buddhism 1956"
+      ],
+      "famous_quotes": [
+        "Education is the milk of lioness. Whoever drinks it will roar"
+      ],
+      "historical_importance": "Chief architect of Indian Constitution. Pioneer of Dalit rights movement.",
+      "category": "leader",
+      "tags": [
+        "ambedkar",
+        "constitution",
+        "dalit",
+        "social reform"
+      ]
+    },
+    {
+      "id": "IL007",
+      "full_name": "Dr. APJ Abdul Kalam",
+      "other_names": [
+        "Missile Man of India",
+        "People's President"
+      ],
+      "birth_date": "October 15, 1931",
+      "birth_place": "Rameswaram, Tamil Nadu",
+      "death_date": "July 27, 2015",
+      "profession": [
+        "Scientist",
+        "11th President of India",
+        "Author"
+      ],
+      "achievements": [
+        "Agni and Prithvi missiles",
+        "PSLV development",
+        "Pokhran II nuclear tests 1998",
+        "11th President 2002-2007"
+      ],
+      "famous_quotes": [
+        "Dream is not what you see while sleeping, it is something that does not let you sleep"
+      ],
+      "historical_importance": "Transformed India's missile and nuclear capabilities. Beloved People's President.",
+      "category": "scientist_president",
+      "tags": [
+        "kalam",
+        "missile man",
+        "president",
+        "scientist",
+        "dream"
+      ]
+    },
+    {
+      "id": "IL008",
+      "full_name": "Narendra Modi",
+      "other_names": [
+        "NaMo"
+      ],
+      "birth_date": "September 17, 1950",
+      "birth_place": "Vadnagar, Gujarat",
+      "profession": [
+        "14th Prime Minister of India"
+      ],
+      "achievements": [
+        "CM Gujarat 2001-2014",
+        "14th PM of India 2014-present",
+        "Make in India",
+        "Digital India",
+        "Swachh Bharat",
+        "UPI revolution",
+        "Ayushman Bharat"
+      ],
+      "category": "prime_minister",
+      "tags": [
+        "modi",
+        "pm",
+        "bjp",
+        "digital india"
+      ]
+    },
+    {
+      "id": "IL009",
+      "full_name": "Indira Gandhi",
+      "other_names": [
+        "Iron Lady of India"
+      ],
+      "birth_date": "November 19, 1917",
+      "death_date": "October 31, 1984",
+      "death_cause": "Assassinated by bodyguards",
+      "profession": [
+        "3rd and 6th Prime Minister of India"
+      ],
+      "achievements": [
+        "1971 Bangladesh Liberation War victory",
+        "Green Revolution",
+        "Nationalization of banks"
+      ],
+      "famous_quotes": [
+        "You cannot shake hands with a clenched fist"
+      ],
+      "historical_importance": "First and only female PM of India. Won Bangladesh Liberation War.",
+      "category": "prime_minister",
+      "tags": [
+        "indira",
+        "iron lady",
+        "pm",
+        "bangladesh"
+      ]
+    },
+    {
+      "id": "IL010",
+      "full_name": "Atal Bihari Vajpayee",
+      "other_names": [
+        "Atal ji"
+      ],
+      "birth_date": "December 25, 1924",
+      "birth_place": "Gwalior, Madhya Pradesh",
+      "death_date": "August 16, 2018",
+      "profession": [
+        "10th Prime Minister of India",
+        "Poet"
+      ],
+      "achievements": [
+        "PM 1999-2004",
+        "Pokhran II nuclear tests 1998",
+        "Golden Quadrilateral highway",
+        "Kargil War victory 1999",
+        "Bharat Ratna 2015"
+      ],
+      "famous_quotes": [
+        "Defeat is not the worst failure. Not to have tried is"
+      ],
+      "category": "prime_minister",
+      "tags": [
+        "vajpayee",
+        "bjp",
+        "nuclear",
+        "kargil"
+      ]
+    },
+    {
+      "id": "IL011",
+      "full_name": "Lal Bahadur Shastri",
+      "birth_date": "October 2, 1904",
+      "death_date": "January 11, 1966",
+      "profession": [
+        "2nd Prime Minister of India"
+      ],
+      "achievements": [
+        "Led India in 1965 Indo-Pak War",
+        "Jai Jawan Jai Kisan slogan"
+      ],
+      "famous_quotes": [
+        "Jai Jawan, Jai Kisan"
+      ],
+      "category": "prime_minister"
+    }
+  ],
+  "freedom_fighters": [
+    {
+      "id": "FF001",
+      "full_name": "Mangal Pandey",
+      "born": "July 19, 1827",
+      "died": "April 8, 1857",
+      "significance": "Triggered 1857 mutiny"
+    },
+    {
+      "id": "FF002",
+      "full_name": "Rani Lakshmibai",
+      "other_names": [
+        "Jhansi ki Rani"
+      ],
+      "born": "November 19, 1828",
+      "died": "June 18, 1858",
+      "significance": "Led Jhansi forces in 1857 revolt"
+    },
+    {
+      "id": "FF003",
+      "full_name": "Bal Gangadhar Tilak",
+      "other_names": [
+        "Lokmanya Tilak"
+      ],
+      "born": "July 23, 1856",
+      "died": "August 1, 1920",
+      "famous_quote": "Swaraj is my birthright and I shall have it"
+    },
+    {
+      "id": "FF004",
+      "full_name": "Lala Lajpat Rai",
+      "other_names": [
+        "Punjab Kesari"
+      ],
+      "born": "January 28, 1865",
+      "died": "November 17, 1928",
+      "significance": "Died from police lathi charge during Simon Commission protest"
+    },
+    {
+      "id": "FF005",
+      "full_name": "Chandrashekhar Azad",
+      "born": "July 23, 1906",
+      "died": "February 27, 1931",
+      "significance": "Never captured by British, shot himself to avoid arrest"
+    },
+    {
+      "id": "FF006",
+      "full_name": "Ram Prasad Bismil",
+      "born": "June 11, 1897",
+      "died": "December 19, 1927",
+      "significance": "Kakori train robbery, composed Sarfaroshi ki Tamanna"
+    },
+    {
+      "id": "FF007",
+      "full_name": "Ashfaqulla Khan",
+      "born": "October 22, 1900",
+      "died": "December 19, 1927",
+      "significance": "Close associate of Bismil, Kakori case"
+    },
+    {
+      "id": "FF008",
+      "full_name": "Sukhdev Thapar",
+      "born": "May 15, 1907",
+      "died": "March 23, 1931",
+      "significance": "Hanged with Bhagat Singh and Rajguru"
+    },
+    {
+      "id": "FF009",
+      "full_name": "Shivaram Rajguru",
+      "born": "August 24, 1908",
+      "died": "March 23, 1931",
+      "significance": "Hanged with Bhagat Singh"
+    },
+    {
+      "id": "FF010",
+      "full_name": "Udham Singh",
+      "born": "December 26, 1899",
+      "died": "July 31, 1940",
+      "significance": "Avenged Jallianwala Bagh massacre by killing Michael O'Dwyer in London"
+    },
+    {
+      "id": "FF011",
+      "full_name": "Sarojini Naidu",
+      "other_names": [
+        "Nightingale of India"
+      ],
+      "born": "February 13, 1879",
+      "died": "March 2, 1949",
+      "significance": "First woman Governor of India, poet"
+    },
+    {
+      "id": "FF012",
+      "full_name": "Birsa Munda",
+      "born": "November 15, 1875",
+      "died": "June 9, 1900",
+      "significance": "Led tribal revolt Ulgulan against British in Jharkhand"
+    },
+    {
+      "id": "FF013",
+      "full_name": "Gopal Krishna Gokhale",
+      "born": "May 9, 1866",
+      "died": "February 19, 1915",
+      "significance": "Gandhi's political mentor"
+    },
+    {
+      "id": "FF014",
+      "full_name": "Dadabhai Naoroji",
+      "other_names": [
+        "Grand Old Man of India"
+      ],
+      "born": "September 4, 1825",
+      "died": "June 30, 1917",
+      "significance": "First Asian MP in British Parliament, Drain Theory"
+    },
+    {
+      "id": "FF015",
+      "full_name": "Sri Aurobindo",
+      "born": "August 15, 1872",
+      "died": "December 5, 1950",
+      "significance": "Revolutionary turned spiritual master"
+    },
+    {
+      "id": "FF016",
+      "full_name": "Khudiram Bose",
+      "born": "December 3, 1889",
+      "died": "August 11, 1908",
+      "significance": "Youngest revolutionary martyr at 18"
+    },
+    {
+      "id": "FF017",
+      "full_name": "Maulana Abul Kalam Azad",
+      "born": "November 11, 1888",
+      "died": "February 22, 1958",
+      "significance": "First Education Minister of India"
+    },
+    {
+      "id": "FF018",
+      "full_name": "Vinayak Damodar Savarkar",
+      "other_names": [
+        "Veer Savarkar"
+      ],
+      "born": "May 28, 1883",
+      "died": "February 26, 1966",
+      "significance": "Hindu Mahasabha leader, coined Hindutva"
+    },
+    {
+      "id": "FF019",
+      "full_name": "Aruna Asaf Ali",
+      "born": "July 16, 1909",
+      "died": "July 29, 1996",
+      "significance": "Hoisted INC flag at Gowalia Tank in 1942 Quit India Movement"
+    },
+    {
+      "id": "FF020",
+      "full_name": "Kittur Chennamma",
+      "born": "October 23, 1778",
+      "died": "February 21, 1829",
+      "significance": "First woman to fight British East India Company"
+    },
+    {
+      "id": "FF021",
+      "full_name": "Bipin Chandra Pal",
+      "significance": "Lal-Bal-Pal trio, advocated Swadeshi movement"
+    },
+    {
+      "id": "FF022",
+      "full_name": "Bahadur Shah Zafar",
+      "significance": "Last Mughal Emperor, symbolic head of 1857 revolt"
+    },
+    {
+      "id": "FF023",
+      "full_name": "Tatya Tope",
+      "significance": "Military commander in 1857 revolt"
+    },
+    {
+      "id": "FF024",
+      "full_name": "Nana Sahib",
+      "significance": "Led Kanpur uprising in 1857"
+    },
+    {
+      "id": "FF025",
+      "full_name": "Begum Hazrat Mahal",
+      "significance": "Led Lucknow resistance in 1857"
+    },
+    {
+      "id": "FF026",
+      "full_name": "Chittaranjan Das",
+      "other_names": [
+        "Deshbandhu"
+      ],
+      "significance": "Congress leader, founded Swaraj Party"
+    },
+    {
+      "id": "FF027",
+      "full_name": "Motilal Nehru",
+      "significance": "Lawyer, political leader, father of Jawaharlal Nehru"
+    },
+    {
+      "id": "FF028",
+      "full_name": "Rash Behari Bose",
+      "significance": "Organized INA before Subhas Chandra Bose"
+    },
+    {
+      "id": "FF029",
+      "full_name": "Batukeshwar Dutt",
+      "significance": "Threw bomb with Bhagat Singh in Central Assembly 1929"
+    },
+    {
+      "id": "FF030",
+      "full_name": "Alluri Sitarama Raju",
+      "significance": "Led Rampa Rebellion against British in Andhra"
+    }
+  ],
+  "politicians": [
+    {
+      "id": "POL001",
+      "full_name": "Narendra Modi",
+      "party": "BJP",
+      "position": "Prime Minister of India",
+      "tenure": "2014-present",
+      "constituency": "Varanasi"
+    },
+    {
+      "id": "POL002",
+      "full_name": "Amit Shah",
+      "party": "BJP",
+      "position": "Home Minister of India"
+    },
+    {
+      "id": "POL003",
+      "full_name": "Rahul Gandhi",
+      "party": "INC",
+      "position": "MP, Leader of Opposition",
+      "constituency": "Wayanad/Rae Bareli"
+    },
+    {
+      "id": "POL004",
+      "full_name": "Sonia Gandhi",
+      "party": "INC",
+      "position": "Former INC President"
+    },
+    {
+      "id": "POL005",
+      "full_name": "Arvind Kejriwal",
+      "party": "AAP",
+      "position": "Former CM Delhi",
+      "founded": "AAP 2012"
+    },
+    {
+      "id": "POL006",
+      "full_name": "Mamata Banerjee",
+      "party": "TMC",
+      "position": "Chief Minister West Bengal",
+      "nickname": "Didi"
+    },
+    {
+      "id": "POL007",
+      "full_name": "Yogi Adityanath",
+      "party": "BJP",
+      "position": "Chief Minister Uttar Pradesh",
+      "real_name": "Ajay Mohan Bisht"
+    },
+    {
+      "id": "POL008",
+      "full_name": "Nitish Kumar",
+      "party": "JDU",
+      "position": "Chief Minister Bihar"
+    },
+    {
+      "id": "POL009",
+      "full_name": "Lalu Prasad Yadav",
+      "party": "RJD",
+      "position": "Former CM Bihar"
+    },
+    {
+      "id": "POL010",
+      "full_name": "Akhilesh Yadav",
+      "party": "SP",
+      "position": "Former CM UP, SP President"
+    },
+    {
+      "id": "POL011",
+      "full_name": "Mayawati",
+      "party": "BSP",
+      "position": "Former CM UP, BSP Chief"
+    },
+    {
+      "id": "POL012",
+      "full_name": "Chandrababu Naidu",
+      "party": "TDP",
+      "position": "CM Andhra Pradesh"
+    },
+    {
+      "id": "POL013",
+      "full_name": "Pinarayi Vijayan",
+      "party": "CPI(M)",
+      "position": "CM Kerala"
+    },
+    {
+      "id": "POL014",
+      "full_name": "M K Stalin",
+      "party": "DMK",
+      "position": "CM Tamil Nadu"
+    },
+    {
+      "id": "POL015",
+      "full_name": "Hemant Soren",
+      "party": "JMM",
+      "position": "CM Jharkhand"
+    },
+    {
+      "id": "POL016",
+      "full_name": "Bhagwant Mann",
+      "party": "AAP",
+      "position": "CM Punjab"
+    },
+    {
+      "id": "POL017",
+      "full_name": "Droupadi Murmu",
+      "party": "BJP",
+      "position": "15th President of India (2022-present)",
+      "significance": "First tribal President of India"
+    },
+    {
+      "id": "POL018",
+      "full_name": "Jagdeep Dhankhar",
+      "party": "BJP",
+      "position": "14th Vice President of India"
+    },
+    {
+      "id": "POL019",
+      "full_name": "Shashi Tharoor",
+      "party": "INC",
+      "position": "MP Thiruvananthapuram, Author"
+    },
+    {
+      "id": "POL020",
+      "full_name": "Rajnath Singh",
+      "party": "BJP",
+      "position": "Defence Minister of India"
+    },
+    {
+      "id": "POL021",
+      "full_name": "Nitin Gadkari",
+      "party": "BJP",
+      "position": "Former Road Transport Minister"
+    },
+    {
+      "id": "POL022",
+      "full_name": "Priyanka Gandhi Vadra",
+      "party": "INC",
+      "position": "MP Wayanad"
+    },
+    {
+      "id": "POL023",
+      "full_name": "Tejashwi Yadav",
+      "party": "RJD",
+      "position": "Former Deputy CM Bihar"
+    },
+    {
+      "id": "POL024",
+      "full_name": "Asaduddin Owaisi",
+      "party": "AIMIM",
+      "position": "MP Hyderabad"
+    },
+    {
+      "id": "POL025",
+      "full_name": "Devendra Fadnavis",
+      "party": "BJP",
+      "position": "CM Maharashtra"
+    },
+    {
+      "id": "POL026",
+      "full_name": "Uddhav Thackeray",
+      "party": "Shiv Sena (UBT)",
+      "position": "Former CM Maharashtra"
+    },
+    {
+      "id": "POL027",
+      "full_name": "Sharad Pawar",
+      "party": "NCP",
+      "position": "Former CM Maharashtra, veteran leader"
+    },
+    {
+      "id": "POL028",
+      "full_name": "Ashok Gehlot",
+      "party": "INC",
+      "position": "Former CM Rajasthan"
+    },
+    {
+      "id": "POL029",
+      "full_name": "Vasundhara Raje",
+      "party": "BJP",
+      "position": "Former CM Rajasthan"
+    },
+    {
+      "id": "POL030",
+      "full_name": "Siddaramaiah",
+      "party": "INC",
+      "position": "CM Karnataka"
+    }
+  ],
+  "cricketers": [
+    {
+      "id": "CK001",
+      "full_name": "Sachin Tendulkar",
+      "nickname": "Master Blaster, God of Cricket",
+      "born": "April 24, 1973",
+      "birth_place": "Mumbai",
+      "role": "Batsman",
+      "batting_style": "Right-hand bat",
+      "teams": [
+        "Mumbai Indians",
+        "India"
+      ],
+      "achievements": [
+        "100 international centuries",
+        "Most Test runs 15921",
+        "Most ODI runs 18426",
+        "2011 World Cup winner"
+      ],
+      "awards": [
+        "Bharat Ratna 2014",
+        "Rajiv Gandhi Khel Ratna",
+        "Padma Vibhushan"
+      ],
+      "jersey": "10",
+      "retired": "2013"
+    },
+    {
+      "id": "CK002",
+      "full_name": "MS Dhoni",
+      "nickname": "Captain Cool, Mahi, Thala",
+      "born": "July 7, 1981",
+      "birth_place": "Ranchi, Jharkhand",
+      "role": "Wicket-keeper batsman, Captain",
+      "teams": [
+        "Chennai Super Kings",
+        "India"
+      ],
+      "achievements": [
+        "2007 T20 World Cup",
+        "2011 ODI World Cup",
+        "2013 Champions Trophy",
+        "IPL 5 times with CSK"
+      ],
+      "awards": [
+        "Padma Bhushan",
+        "Khel Ratna"
+      ],
+      "jersey": "7",
+      "retired": "August 15, 2020"
+    },
+    {
+      "id": "CK003",
+      "full_name": "Virat Kohli",
+      "nickname": "King Kohli, Chiku",
+      "born": "November 5, 1988",
+      "birth_place": "Delhi",
+      "role": "Batsman",
+      "teams": [
+        "Royal Challengers Bengaluru",
+        "India"
+      ],
+      "achievements": [
+        "Most T20I runs",
+        "70+ ODI centuries",
+        "ICC World Cups"
+      ],
+      "awards": [
+        "Padma Shri",
+        "Khel Ratna"
+      ],
+      "jersey": "18"
+    },
+    {
+      "id": "CK004",
+      "full_name": "Rohit Sharma",
+      "nickname": "Hitman",
+      "born": "April 30, 1987",
+      "birth_place": "Nagpur",
+      "role": "Opener, Captain",
+      "teams": [
+        "Mumbai Indians",
+        "India"
+      ],
+      "achievements": [
+        "3 ODI double centuries",
+        "IPL 5 times",
+        "T20 World Cup 2024 winner",
+        "Current captain"
+      ],
+      "jersey": "45"
+    },
+    {
+      "id": "CK005",
+      "full_name": "Rahul Dravid",
+      "nickname": "The Wall, Mr. Dependable",
+      "born": "January 11, 1973",
+      "birth_place": "Indore, Madhya Pradesh",
+      "role": "Batsman, Former Head Coach",
+      "achievements": [
+        "13288 Test runs",
+        "ICC Hall of Fame",
+        "India Head Coach 2021-2024"
+      ]
+    },
+    {
+      "id": "CK006",
+      "full_name": "Sourav Ganguly",
+      "nickname": "Dada, Prince of Calcutta",
+      "born": "July 8, 1972",
+      "birth_place": "Kolkata",
+      "role": "Batsman, Captain",
+      "batting_style": "Left-hand bat",
+      "achievements": [
+        "Transformed Indian cricket",
+        "BCCI President 2019-2022",
+        "Famous Lords shirt removal 2002"
+      ]
+    },
+    {
+      "id": "CK007",
+      "full_name": "Kapil Dev",
+      "nickname": "Haryana Hurricane",
+      "born": "January 6, 1959",
+      "role": "All-rounder",
+      "achievements": [
+        "1983 World Cup winner and captain",
+        "First Indian to take 400 Test wickets",
+        "Wisden Cricketer of the Century"
+      ]
+    },
+    {
+      "id": "CK008",
+      "full_name": "Sunil Gavaskar",
+      "nickname": "Sunny, Little Master",
+      "born": "July 10, 1949",
+      "birth_place": "Mumbai",
+      "role": "Opener",
+      "achievements": [
+        "First to score 10000 Test runs",
+        "34 Test centuries"
+      ]
+    },
+    {
+      "id": "CK009",
+      "full_name": "Anil Kumble",
+      "nickname": "Jumbo",
+      "born": "October 17, 1970",
+      "birth_place": "Bangalore",
+      "role": "Leg-spin bowler",
+      "achievements": [
+        "619 Test wickets",
+        "10 wickets in innings vs Pakistan 1999"
+      ]
+    },
+    {
+      "id": "CK010",
+      "full_name": "Virender Sehwag",
+      "nickname": "Viru, Nawab of Najafgarh",
+      "born": "October 20, 1978",
+      "birth_place": "Delhi",
+      "role": "Opener",
+      "achievements": [
+        "319 runs in one Test innings",
+        "Two triple centuries"
+      ]
+    },
+    {
+      "id": "CK011",
+      "full_name": "Yuvraj Singh",
+      "nickname": "Yuvi",
+      "born": "December 12, 1981",
+      "role": "All-rounder",
+      "achievements": [
+        "2011 World Cup Player of Tournament",
+        "6 sixes in 6 balls vs England 2007",
+        "Overcame cancer to return"
+      ]
+    },
+    {
+      "id": "CK012",
+      "full_name": "Harbhajan Singh",
+      "nickname": "Turbanator",
+      "born": "July 3, 1980",
+      "role": "Off-spin bowler",
+      "achievements": [
+        "417 Test wickets",
+        "Hat-trick vs Australia 2001"
+      ]
+    },
+    {
+      "id": "CK013",
+      "full_name": "Jasprit Bumrah",
+      "nickname": "Death Bowler",
+      "born": "December 6, 1993",
+      "birth_place": "Ahmedabad",
+      "role": "Fast bowler",
+      "achievements": [
+        "ICC No.1 Test bowler",
+        "T20 World Cup 2024 winner",
+        "Fastest Indian to 150 Test wickets"
+      ]
+    },
+    {
+      "id": "CK014",
+      "full_name": "Hardik Pandya",
+      "born": "October 11, 1993",
+      "birth_place": "Surat",
+      "role": "All-rounder",
+      "achievements": [
+        "T20 World Cup 2024 winner",
+        "Match-winning performances"
+      ]
+    },
+    {
+      "id": "CK015",
+      "full_name": "Ravindra Jadeja",
+      "nickname": "Sir Jadeja",
+      "born": "December 6, 1988",
+      "role": "All-rounder",
+      "achievements": [
+        "ICC No.1 all-rounder",
+        "600+ international wickets + 5000+ runs"
+      ]
+    },
+    {
+      "id": "CK016",
+      "full_name": "Ravichandran Ashwin",
+      "nickname": "Ash",
+      "born": "September 17, 1986",
+      "birth_place": "Chennai",
+      "role": "Off-spin bowler",
+      "achievements": [
+        "500+ Test wickets",
+        "Multiple ICC Cricketer of Year"
+      ],
+      "retired": "December 2024"
+    },
+    {
+      "id": "CK017",
+      "full_name": "Shubman Gill",
+      "born": "September 8, 1999",
+      "birth_place": "Fazilka, Punjab",
+      "role": "Opener"
+    },
+    {
+      "id": "CK018",
+      "full_name": "Rishabh Pant",
+      "born": "October 4, 1997",
+      "birth_place": "Roorkee",
+      "role": "Wicket-keeper batsman",
+      "achievements": [
+        "Match-winning Test innings in Australia",
+        "Survived car accident 2022"
+      ]
+    },
+    {
+      "id": "CK019",
+      "full_name": "Yashasvi Jaiswal",
+      "born": "December 28, 2001",
+      "role": "Left-hand opener",
+      "achievements": [
+        "345* in Tests vs England 2024"
+      ]
+    },
+    {
+      "id": "CK020",
+      "full_name": "KL Rahul",
+      "born": "April 18, 1992",
+      "birth_place": "Mangalore",
+      "role": "Opener/Wicket-keeper"
+    },
+    {
+      "id": "CK021",
+      "full_name": "Suryakumar Yadav",
+      "nickname": "SKY, 360 degree player",
+      "born": "September 14, 1990",
+      "role": "Batsman",
+      "achievements": [
+        "ICC T20I Batsman of Year multiple",
+        "Crucial catch in T20 WC 2024 final"
+      ]
+    },
+    {
+      "id": "CK022",
+      "full_name": "Mohammed Siraj",
+      "born": "March 13, 1994",
+      "birth_place": "Hyderabad",
+      "role": "Fast bowler"
+    },
+    {
+      "id": "CK023",
+      "full_name": "Kuldeep Yadav",
+      "born": "December 14, 1994",
+      "birth_place": "Kanpur",
+      "role": "Left-arm wrist spinner"
+    },
+    {
+      "id": "CK024",
+      "full_name": "Axar Patel",
+      "born": "January 20, 1994",
+      "birth_place": "Anand, Gujarat",
+      "role": "Left-arm spinner, All-rounder"
+    },
+    {
+      "id": "CK025",
+      "full_name": "Shreyas Iyer",
+      "born": "February 6, 1995",
+      "birth_place": "Mumbai",
+      "role": "Middle-order batsman"
+    },
+    {
+      "id": "CK026",
+      "full_name": "Sanju Samson",
+      "born": "November 11, 1994",
+      "birth_place": "Kochi",
+      "role": "Wicket-keeper batsman"
+    },
+    {
+      "id": "CK027",
+      "full_name": "Ishan Kishan",
+      "born": "July 18, 1998",
+      "birth_place": "Patna",
+      "role": "Wicket-keeper batsman"
+    },
+    {
+      "id": "CK028",
+      "full_name": "Ruturaj Gaikwad",
+      "born": "January 31, 1997",
+      "birth_place": "Pune",
+      "role": "Opener"
+    },
+    {
+      "id": "CK029",
+      "full_name": "Arshdeep Singh",
+      "born": "February 5, 2000",
+      "birth_place": "Ludhiana",
+      "role": "Left-arm fast bowler"
+    },
+    {
+      "id": "CK030",
+      "full_name": "Washington Sundar",
+      "born": "October 5, 1999",
+      "role": "Off-spin all-rounder"
+    },
+    {
+      "id": "CK031",
+      "full_name": "Rinku Singh",
+      "born": "October 12, 1997",
+      "birth_place": "Aligarh",
+      "role": "Lower-order batsman",
+      "famous_for": "5 sixes in last over IPL"
+    },
+    {
+      "id": "CK032",
+      "full_name": "Tilak Varma",
+      "born": "November 8, 2002",
+      "birth_place": "Hyderabad",
+      "role": "Left-hand batsman"
+    },
+    {
+      "id": "CK033",
+      "full_name": "Bhuvneshwar Kumar",
+      "born": "February 5, 1990",
+      "birth_place": "Meerut",
+      "role": "Right-arm swing bowler"
+    },
+    {
+      "id": "CK034",
+      "full_name": "Deepak Chahar",
+      "born": "August 7, 1992",
+      "role": "Right-arm medium-fast bowler"
+    },
+    {
+      "id": "CK035",
+      "full_name": "Dinesh Karthik",
+      "born": "June 1, 1985",
+      "birth_place": "Chennai",
+      "role": "Wicket-keeper, finisher",
+      "retired": "2023"
+    },
+    {
+      "id": "CK036",
+      "full_name": "Ajinkya Rahane",
+      "born": "June 6, 1988",
+      "birth_place": "Ashwi-KD, Maharashtra",
+      "role": "Batsman"
+    },
+    {
+      "id": "CK037",
+      "full_name": "Cheteshwar Pujara",
+      "nickname": "Test Specialist, India's Wall",
+      "born": "January 25, 1988",
+      "role": "Batsman"
+    },
+    {
+      "id": "CK038",
+      "full_name": "Ishant Sharma",
+      "born": "September 2, 1988",
+      "birth_place": "Delhi",
+      "role": "Fast bowler"
+    },
+    {
+      "id": "CK039",
+      "full_name": "Suresh Raina",
+      "nickname": "Mr. IPL",
+      "born": "November 27, 1986",
+      "birth_place": "Muradnagar, UP",
+      "role": "All-rounder"
+    },
+    {
+      "id": "CK040",
+      "full_name": "Gautam Gambhir",
+      "born": "October 14, 1981",
+      "birth_place": "Delhi",
+      "role": "Opener, Coach",
+      "achievements": [
+        "Key role in 2007 T20 WC and 2011 WC wins",
+        "Current India Head Coach 2024"
+      ]
+    },
+    {
+      "id": "CK041",
+      "full_name": "Mohammad Azharuddin",
+      "born": "February 8, 1963",
+      "birth_place": "Hyderabad",
+      "role": "Batsman, Captain"
+    },
+    {
+      "id": "CK042",
+      "full_name": "Zaheer Khan",
+      "born": "October 7, 1978",
+      "birth_place": "Shrirampur",
+      "role": "Left-arm fast bowler"
+    },
+    {
+      "id": "CK043",
+      "full_name": "VVS Laxman",
+      "nickname": "Very Very Special",
+      "born": "November 1, 1974",
+      "birth_place": "Hyderabad",
+      "role": "Batsman",
+      "achievements": [
+        "281 vs Australia Kolkata 2001 - greatest comeback innings"
+      ]
+    },
+    {
+      "id": "CK044",
+      "full_name": "Irfan Pathan",
+      "born": "October 27, 1984",
+      "birth_place": "Vadodara",
+      "role": "All-rounder"
+    },
+    {
+      "id": "CK045",
+      "full_name": "Yusuf Pathan",
+      "born": "November 17, 1982",
+      "role": "All-rounder"
+    },
+    {
+      "id": "CK046",
+      "full_name": "Robin Uthappa",
+      "born": "November 11, 1985",
+      "role": "Wicket-keeper batsman"
+    },
+    {
+      "id": "CK047",
+      "full_name": "Wriddhiman Saha",
+      "born": "October 24, 1984",
+      "role": "Wicket-keeper"
+    },
+    {
+      "id": "CK048",
+      "full_name": "Navdeep Saini",
+      "born": "November 23, 1992",
+      "role": "Fast bowler"
+    },
+    {
+      "id": "CK049",
+      "full_name": "Harshal Patel",
+      "born": "July 23, 1990",
+      "role": "Right-arm fast bowler"
+    },
+    {
+      "id": "CK050",
+      "full_name": "Yuzvendra Chahal",
+      "born": "July 23, 1990",
+      "birth_place": "Jind, Haryana",
+      "role": "Leg-spin bowler"
+    },
+    {
+      "id": "CK051",
+      "full_name": "Mayank Agarwal",
+      "born": "February 16, 1991",
+      "role": "Opener"
+    },
+    {
+      "id": "CK052",
+      "full_name": "Hanuma Vihari",
+      "born": "October 13, 1993",
+      "role": "Batsman"
+    },
+    {
+      "id": "CK053",
+      "full_name": "Umesh Yadav",
+      "born": "October 25, 1987",
+      "birth_place": "Nagpur",
+      "role": "Fast bowler"
+    },
+    {
+      "id": "CK054",
+      "full_name": "Shardul Thakur",
+      "born": "October 16, 1991",
+      "role": "All-rounder"
+    },
+    {
+      "id": "CK055",
+      "full_name": "Kedar Jadhav",
+      "born": "March 26, 1985",
+      "role": "All-rounder"
+    },
+    {
+      "id": "CK056",
+      "full_name": "Ambati Rayudu",
+      "born": "September 23, 1985",
+      "role": "Batsman"
+    },
+    {
+      "id": "CK057",
+      "full_name": "Murali Vijay",
+      "born": "April 1, 1984",
+      "role": "Opener"
+    },
+    {
+      "id": "CK058",
+      "full_name": "Dhruv Jurel",
+      "born": "September 21, 2001",
+      "role": "Wicket-keeper batsman"
+    },
+    {
+      "id": "CK059",
+      "full_name": "Sarfaraz Khan",
+      "born": "October 14, 1997",
+      "birth_place": "Mumbai",
+      "role": "Batsman"
+    },
+    {
+      "id": "CK060",
+      "full_name": "Devdutt Padikkal",
+      "born": "July 7, 2000",
+      "role": "Left-hand batsman"
+    },
+    {
+      "id": "CK061",
+      "full_name": "Abhishek Sharma",
+      "born": "September 4, 2000",
+      "birth_place": "Amritsar",
+      "role": "Left-hand opener, All-rounder"
+    },
+    {
+      "id": "CK062",
+      "full_name": "Sai Sudharsan",
+      "born": "August 11, 2002",
+      "birth_place": "Chennai",
+      "role": "Left-hand batsman"
+    },
+    {
+      "id": "CK063",
+      "full_name": "Riyan Parag",
+      "born": "November 10, 2001",
+      "birth_place": "Guwahati",
+      "role": "All-rounder"
+    },
+    {
+      "id": "CK064",
+      "full_name": "Navjot Singh Sidhu",
+      "born": "October 20, 1963",
+      "role": "Former batsman, politician, commentator"
+    },
+    {
+      "id": "CK065",
+      "full_name": "Ajit Agarkar",
+      "born": "December 4, 1977",
+      "role": "Fast bowler, now India selector chief"
+    },
+    {
+      "id": "CK066",
+      "full_name": "Dilip Vengsarkar",
+      "nickname": "Colonel",
+      "born": "April 6, 1956",
+      "role": "Former batsman"
+    },
+    {
+      "id": "CK067",
+      "full_name": "Roger Binny",
+      "born": "July 19, 1955",
+      "role": "Former all-rounder, BCCI President"
+    },
+    {
+      "id": "CK068",
+      "full_name": "Madan Lal",
+      "born": "March 20, 1951",
+      "role": "Former all-rounder, 1983 WC hero"
+    },
+    {
+      "id": "CK069",
+      "full_name": "Syed Kirmani",
+      "born": "December 29, 1949",
+      "role": "Former wicket-keeper, 1983 WC"
+    },
+    {
+      "id": "CK070",
+      "full_name": "Wasim Jaffer",
+      "born": "February 16, 1978",
+      "role": "Former domestic run machine"
+    }
+  ],
+  "footballers": [
+    {
+      "id": "FB001",
+      "full_name": "Sunil Chhetri",
+      "nationality": "Indian",
+      "born": "August 3, 1984",
+      "position": "Forward, Captain",
+      "club": "Bengaluru FC (retired 2024)",
+      "goals": "94 international goals",
+      "awards": [
+        "Padma Shri",
+        "Khel Ratna 2021"
+      ],
+      "retired": "June 2024"
+    },
+    {
+      "id": "FB002",
+      "full_name": "Lionel Messi",
+      "nationality": "Argentine",
+      "born": "June 24, 1987",
+      "position": "Forward",
+      "club": "Inter Miami",
+      "awards": [
+        "8 Ballon d'Or"
+      ],
+      "achievements": [
+        "2022 FIFA World Cup winner"
+      ]
+    },
+    {
+      "id": "FB003",
+      "full_name": "Cristiano Ronaldo",
+      "nationality": "Portuguese",
+      "born": "February 5, 1985",
+      "position": "Forward",
+      "club": "Al Nassr",
+      "awards": [
+        "5 Ballon d'Or"
+      ]
+    },
+    {
+      "id": "FB004",
+      "full_name": "Neymar Jr",
+      "nationality": "Brazilian",
+      "born": "February 5, 1992",
+      "position": "Forward"
+    },
+    {
+      "id": "FB005",
+      "full_name": "Kylian Mbappe",
+      "nationality": "French",
+      "born": "December 20, 1998",
+      "position": "Forward",
+      "club": "Real Madrid",
+      "achievements": [
+        "2018 FIFA World Cup winner",
+        "Champions League 2024"
+      ]
+    }
+  ],
+  "scientists": [
+    {
+      "id": "SC001",
+      "full_name": "CV Raman",
+      "born": "November 7, 1888",
+      "died": "November 21, 1970",
+      "field": "Physics",
+      "achievements": [
+        "Raman Effect 1928",
+        "Nobel Prize Physics 1930",
+        "Bharat Ratna"
+      ]
+    },
+    {
+      "id": "SC002",
+      "full_name": "Homi Jehangir Bhabha",
+      "born": "October 30, 1909",
+      "died": "January 24, 1966",
+      "field": "Nuclear Physics",
+      "achievements": [
+        "Father of Indian nuclear program",
+        "Founded TIFR",
+        "Founded BARC"
+      ]
+    },
+    {
+      "id": "SC003",
+      "full_name": "Vikram Sarabhai",
+      "born": "August 12, 1919",
+      "died": "December 30, 1971",
+      "field": "Space Science",
+      "achievements": [
+        "Father of Indian space program",
+        "Founded ISRO",
+        "Founded PRL"
+      ]
+    },
+    {
+      "id": "SC004",
+      "full_name": "Jagadish Chandra Bose",
+      "born": "November 30, 1858",
+      "died": "November 23, 1937",
+      "field": "Physics, Biology",
+      "achievements": [
+        "Invented crescograph",
+        "Proved plants have life",
+        "Pioneered radio wave research"
+      ]
+    },
+    {
+      "id": "SC005",
+      "full_name": "Srinivasa Ramanujan",
+      "born": "December 22, 1887",
+      "died": "April 26, 1920",
+      "field": "Mathematics",
+      "achievements": [
+        "Hardy-Ramanujan number 1729",
+        "3900+ mathematical results",
+        "Mock theta functions"
+      ]
+    },
+    {
+      "id": "SC006",
+      "full_name": "Satyendra Nath Bose",
+      "born": "January 1, 1894",
+      "died": "February 4, 1974",
+      "field": "Physics",
+      "achievements": [
+        "Bose-Einstein statistics",
+        "Bosons named after him"
+      ]
+    },
+    {
+      "id": "SC007",
+      "full_name": "APJ Abdul Kalam",
+      "born": "October 15, 1931",
+      "died": "July 27, 2015",
+      "field": "Aerospace, Missile Technology",
+      "achievements": [
+        "Agni Prithvi missiles",
+        "PSLV",
+        "Pokhran II",
+        "11th President"
+      ]
+    },
+    {
+      "id": "SC008",
+      "full_name": "Meghnad Saha",
+      "born": "October 6, 1893",
+      "died": "February 16, 1956",
+      "field": "Astrophysics",
+      "achievements": [
+        "Saha ionization equation"
+      ]
+    },
+    {
+      "id": "SC009",
+      "full_name": "S Somnath",
+      "field": "Space Science",
+      "position": "Current ISRO Chairman",
+      "achievements": [
+        "Chandrayaan-3 success 2023",
+        "Aditya-L1 solar mission"
+      ]
+    }
+  ],
+  "actors": [
+    {
+      "id": "AC001",
+      "full_name": "Shah Rukh Khan",
+      "nickname": "King Khan, SRK",
+      "born": "November 2, 1965",
+      "birth_place": "New Delhi",
+      "industry": "Bollywood",
+      "movies": [
+        "DDLJ",
+        "K3G",
+        "Devdas",
+        "Swades",
+        "Chak De India",
+        "Pathaan",
+        "Jawan"
+      ],
+      "awards": [
+        "Padma Shri",
+        "14 Filmfare Awards"
+      ]
+    },
+    {
+      "id": "AC002",
+      "full_name": "Salman Khan",
+      "nickname": "Bhaijaan",
+      "born": "December 27, 1965",
+      "birth_place": "Indore, Madhya Pradesh",
+      "industry": "Bollywood",
+      "movies": [
+        "Bajrangi Bhaijaan",
+        "Sultan",
+        "Dabangg",
+        "Tiger Zinda Hai"
+      ]
+    },
+    {
+      "id": "AC003",
+      "full_name": "Aamir Khan",
+      "nickname": "Mr. Perfectionist",
+      "born": "March 14, 1965",
+      "birth_place": "Mumbai",
+      "industry": "Bollywood",
+      "movies": [
+        "3 Idiots",
+        "Dangal",
+        "PK",
+        "Lagaan",
+        "Taare Zameen Par",
+        "Ghajini"
+      ]
+    },
+    {
+      "id": "AC004",
+      "full_name": "Amitabh Bachchan",
+      "nickname": "Big B, Shahenshah",
+      "born": "October 11, 1942",
+      "birth_place": "Allahabad",
+      "movies": [
+        "Sholay",
+        "Deewar",
+        "Zanjeer",
+        "Black",
+        "Piku"
+      ],
+      "awards": [
+        "Padma Vibhushan",
+        "Dadasaheb Phalke Award 2018"
+      ]
+    },
+    {
+      "id": "AC005",
+      "full_name": "Rajinikanth",
+      "nickname": "Thalaivar, Superstar",
+      "born": "December 12, 1950",
+      "industry": "Kollywood",
+      "movies": [
+        "Baasha",
+        "Robot",
+        "Kabali",
+        "Jailer"
+      ],
+      "awards": [
+        "Padma Vibhushan",
+        "Dadasaheb Phalke Award 2019"
+      ]
+    },
+    {
+      "id": "AC006",
+      "full_name": "Kamal Haasan",
+      "nickname": "Universal Hero",
+      "born": "November 7, 1954",
+      "industry": "Kollywood",
+      "movies": [
+        "Nayakan",
+        "Dasavathaaram",
+        "Vikram"
+      ],
+      "awards": [
+        "Padma Bhushan"
+      ]
+    },
+    {
+      "id": "AC007",
+      "full_name": "Prabhas",
+      "nickname": "Rebel Star, Darling",
+      "born": "October 23, 1979",
+      "industry": "Tollywood",
+      "movies": [
+        "Baahubali 1",
+        "Baahubali 2",
+        "Saaho",
+        "Kalki 2898 AD"
+      ]
+    },
+    {
+      "id": "AC008",
+      "full_name": "Allu Arjun",
+      "nickname": "Bunny, Icon Star",
+      "born": "April 8, 1983",
+      "industry": "Tollywood",
+      "movies": [
+        "Pushpa The Rise",
+        "Pushpa The Rule",
+        "Ala Vaikunthapurramuloo"
+      ],
+      "awards": [
+        "National Award 2021 for Pushpa"
+      ]
+    },
+    {
+      "id": "AC009",
+      "full_name": "Jr NTR",
+      "nickname": "Young Tiger",
+      "born": "May 20, 1983",
+      "industry": "Tollywood",
+      "movies": [
+        "RRR",
+        "Temper",
+        "Janatha Garage"
+      ]
+    },
+    {
+      "id": "AC010",
+      "full_name": "Ram Charan",
+      "born": "March 27, 1985",
+      "industry": "Tollywood",
+      "movies": [
+        "RRR",
+        "Rangasthalam",
+        "Magadheera"
+      ]
+    },
+    {
+      "id": "AC011",
+      "full_name": "Mahesh Babu",
+      "nickname": "Prince, Superstar",
+      "born": "August 9, 1975",
+      "industry": "Tollywood",
+      "movies": [
+        "Srimanthudu",
+        "Bharat Ane Nenu",
+        "Sarileru Neekevvaru"
+      ]
+    },
+    {
+      "id": "AC012",
+      "full_name": "Hrithik Roshan",
+      "nickname": "Greek God of Bollywood",
+      "born": "January 10, 1974",
+      "movies": [
+        "Krrish",
+        "Dhoom 2",
+        "War",
+        "Fighter"
+      ]
+    },
+    {
+      "id": "AC013",
+      "full_name": "Ranbir Kapoor",
+      "born": "September 28, 1982",
+      "movies": [
+        "Sanju",
+        "Rockstar",
+        "Animal",
+        "Brahmastra"
+      ]
+    },
+    {
+      "id": "AC014",
+      "full_name": "Akshay Kumar",
+      "nickname": "Khiladi Kumar",
+      "born": "September 9, 1967",
+      "birth_place": "Amritsar",
+      "movies": [
+        "Padman",
+        "Toilet Ek Prem Katha",
+        "Baby",
+        "Holiday"
+      ]
+    },
+    {
+      "id": "AC015",
+      "full_name": "Ranveer Singh",
+      "born": "July 6, 1985",
+      "birth_place": "Mumbai",
+      "movies": [
+        "Padmaavat",
+        "Gully Boy",
+        "83",
+        "Rocky Aur Rani"
+      ]
+    },
+    {
+      "id": "AC016",
+      "full_name": "Deepika Padukone",
+      "born": "January 5, 1986",
+      "movies": [
+        "Piku",
+        "Padmaavat",
+        "Pathaan",
+        "Fighter"
+      ]
+    },
+    {
+      "id": "AC017",
+      "full_name": "Priyanka Chopra",
+      "nickname": "Piggy Chops, Desi Girl",
+      "born": "July 18, 1982",
+      "awards": [
+        "National Award",
+        "Miss World 2000"
+      ]
+    },
+    {
+      "id": "AC018",
+      "full_name": "Alia Bhatt",
+      "born": "March 15, 1993",
+      "movies": [
+        "Raazi",
+        "Gangubai Kathiawadi",
+        "RRR"
+      ],
+      "awards": [
+        "National Award for Gangubai"
+      ]
+    },
+    {
+      "id": "AC019",
+      "full_name": "Nawazuddin Siddiqui",
+      "born": "May 19, 1974",
+      "birth_place": "Budhana, UP",
+      "movies": [
+        "Gangs of Wasseypur",
+        "Sacred Games"
+      ]
+    },
+    {
+      "id": "AC020",
+      "full_name": "Pankaj Tripathi",
+      "born": "September 5, 1976",
+      "birth_place": "Gopalganj, Bihar",
+      "movies": [
+        "Mirzapur",
+        "Stree",
+        "Newton"
+      ],
+      "awards": [
+        "National Award"
+      ]
+    },
+    {
+      "id": "AC021",
+      "full_name": "Yash",
+      "nickname": "KGF Star, Rocking Star",
+      "born": "January 8, 1986",
+      "industry": "Kannada",
+      "movies": [
+        "KGF Chapter 1",
+        "KGF Chapter 2"
+      ]
+    },
+    {
+      "id": "AC022",
+      "full_name": "Rashmika Mandanna",
+      "nickname": "National Crush of India",
+      "born": "April 5, 1996",
+      "movies": [
+        "Pushpa",
+        "Animal",
+        "Goodbye"
+      ]
+    },
+    {
+      "id": "AC023",
+      "full_name": "Vijay Sethupathi",
+      "born": "January 16, 1978",
+      "industry": "Kollywood",
+      "movies": [
+        "Master",
+        "Vikram",
+        "Jawan"
+      ]
+    },
+    {
+      "id": "AC024",
+      "full_name": "Dhanush",
+      "born": "July 28, 1983",
+      "industry": "Kollywood",
+      "movies": [
+        "3",
+        "Raanjhanaa",
+        "Atrangi Re"
+      ]
+    },
+    {
+      "id": "AC025",
+      "full_name": "Nayanthara",
+      "nickname": "Lady Superstar",
+      "born": "November 18, 1984",
+      "movies": [
+        "Jawan",
+        "Bigil",
+        "Mookuthi Amman"
+      ]
+    },
+    {
+      "id": "AC026",
+      "full_name": "Chiranjeevi",
+      "nickname": "Mega Star",
+      "born": "August 22, 1955",
+      "industry": "Tollywood",
+      "movies": [
+        "Indra",
+        "Shankar Dada MBBS",
+        "GodFather"
+      ]
+    },
+    {
+      "id": "AC027",
+      "full_name": "Mohanlal",
+      "born": "May 21, 1960",
+      "industry": "Malayalam",
+      "movies": [
+        "Drishyam",
+        "Lucifer",
+        "Pulimurugan"
+      ]
+    },
+    {
+      "id": "AC028",
+      "full_name": "Mammootty",
+      "born": "September 7, 1951",
+      "industry": "Malayalam",
+      "movies": [
+        "Mathilukal",
+        "Oru Vadakkan Veeragatha"
+      ]
+    },
+    {
+      "id": "AC029",
+      "full_name": "Suriya",
+      "born": "July 23, 1975",
+      "industry": "Kollywood",
+      "movies": [
+        "Jai Bhim",
+        "Soorarai Pottru",
+        "Singam"
+      ]
+    },
+    {
+      "id": "AC030",
+      "full_name": "Vijay",
+      "born": "June 22, 1974",
+      "industry": "Kollywood",
+      "movies": [
+        "Mersal",
+        "Bigil",
+        "Leo"
+      ]
+    },
+    {
+      "id": "AC031",
+      "full_name": "Ajay Devgn",
+      "born": "April 2, 1969",
+      "birth_place": "New Delhi",
+      "movies": [
+        "Singham",
+        "Drishyam",
+        "Tanhaji",
+        "RRR"
+      ]
+    },
+    {
+      "id": "AC032",
+      "full_name": "Shahid Kapoor",
+      "born": "February 25, 1981",
+      "movies": [
+        "Kabir Singh",
+        "Padmaavat",
+        "Haider",
+        "Jersey"
+      ]
+    },
+    {
+      "id": "AC033",
+      "full_name": "Vicky Kaushal",
+      "born": "May 16, 1988",
+      "movies": [
+        "URI",
+        "Sam Bahadur",
+        "Masaan"
+      ]
+    },
+    {
+      "id": "AC034",
+      "full_name": "Kartik Aaryan",
+      "born": "November 22, 1990",
+      "birth_place": "Gwalior",
+      "movies": [
+        "Bhool Bhulaiyaa 2",
+        "Freddy",
+        "Shehzada"
+      ]
+    },
+    {
+      "id": "AC035",
+      "full_name": "Ayushmann Khurrana",
+      "born": "September 14, 1984",
+      "movies": [
+        "Andhadhun",
+        "Article 15",
+        "Dream Girl"
+      ]
+    },
+    {
+      "id": "AC036",
+      "full_name": "Katrina Kaif",
+      "born": "July 16, 1983",
+      "movies": [
+        "Tiger series",
+        "Phone Bhoot",
+        "Zero"
+      ]
+    },
+    {
+      "id": "AC037",
+      "full_name": "Kareena Kapoor",
+      "born": "September 21, 1980",
+      "movies": [
+        "Kabhi Khushi Kabhie Gham",
+        "3 Idiots",
+        "Jab We Met"
+      ]
+    },
+    {
+      "id": "AC038",
+      "full_name": "Kajol",
+      "born": "August 5, 1974",
+      "movies": [
+        "DDLJ",
+        "K3G",
+        "Kabhi Alvida Naa Kehna"
+      ]
+    },
+    {
+      "id": "AC039",
+      "full_name": "Madhuri Dixit",
+      "nickname": "Dhak Dhak Girl",
+      "born": "May 15, 1967",
+      "movies": [
+        "Tezaab",
+        "Hum Aapke Hain Koun",
+        "Devdas"
+      ]
+    },
+    {
+      "id": "AC040",
+      "full_name": "Amitabh Bachchan",
+      "already_in_list": true
+    }
+  ],
+  "movies": [
+    {
+      "id": "MV001",
+      "title": "Sholay",
+      "year": 1975,
+      "director": "Ramesh Sippy",
+      "cast": [
+        "Amitabh Bachchan",
+        "Dharmendra",
+        "Hema Malini",
+        "Sanjeev Kumar"
+      ],
+      "industry": "Bollywood",
+      "imdb": 8.2,
+      "significance": "Greatest Indian film ever made"
+    },
+    {
+      "id": "MV002",
+      "title": "Dilwale Dulhania Le Jayenge",
+      "year": 1995,
+      "director": "Aditya Chopra",
+      "cast": [
+        "Shah Rukh Khan",
+        "Kajol"
+      ],
+      "industry": "Bollywood",
+      "imdb": 8.1
+    },
+    {
+      "id": "MV003",
+      "title": "3 Idiots",
+      "year": 2009,
+      "director": "Rajkumar Hirani",
+      "cast": [
+        "Aamir Khan",
+        "R Madhavan",
+        "Sharman Joshi"
+      ],
+      "box_office": "₹460 crore",
+      "imdb": 8.4
+    },
+    {
+      "id": "MV004",
+      "title": "Dangal",
+      "year": 2016,
+      "director": "Nitesh Tiwari",
+      "cast": [
+        "Aamir Khan"
+      ],
+      "box_office": "₹2000+ crore worldwide",
+      "imdb": 8.3
+    },
+    {
+      "id": "MV005",
+      "title": "Baahubali: The Beginning",
+      "year": 2015,
+      "director": "SS Rajamouli",
+      "cast": [
+        "Prabhas",
+        "Rana Daggubati",
+        "Anushka Shetty"
+      ],
+      "industry": "Tollywood"
+    },
+    {
+      "id": "MV006",
+      "title": "Baahubali: The Conclusion",
+      "year": 2017,
+      "director": "SS Rajamouli",
+      "box_office": "₹1810 crore",
+      "significance": "First Indian film to cross 1000 crore"
+    },
+    {
+      "id": "MV007",
+      "title": "RRR",
+      "year": 2022,
+      "director": "SS Rajamouli",
+      "cast": [
+        "Jr NTR",
+        "Ram Charan"
+      ],
+      "awards": [
+        "Oscar for Naatu Naatu Best Original Song"
+      ]
+    },
+    {
+      "id": "MV008",
+      "title": "KGF Chapter 2",
+      "year": 2022,
+      "director": "Prashanth Neel",
+      "cast": [
+        "Yash",
+        "Sanjay Dutt"
+      ],
+      "box_office": "₹1200+ crore"
+    },
+    {
+      "id": "MV009",
+      "title": "Pathaan",
+      "year": 2023,
+      "cast": [
+        "Shah Rukh Khan",
+        "Deepika Padukone"
+      ],
+      "box_office": "₹1050 crore"
+    },
+    {
+      "id": "MV010",
+      "title": "Jawan",
+      "year": 2023,
+      "director": "Atlee",
+      "cast": [
+        "Shah Rukh Khan",
+        "Nayanthara"
+      ],
+      "box_office": "₹1160 crore"
+    },
+    {
+      "id": "MV011",
+      "title": "Animal",
+      "year": 2023,
+      "cast": [
+        "Ranbir Kapoor",
+        "Anil Kapoor"
+      ],
+      "box_office": "₹917 crore"
+    },
+    {
+      "id": "MV012",
+      "title": "Pushpa: The Rise",
+      "year": 2021,
+      "cast": [
+        "Allu Arjun",
+        "Rashmika Mandanna"
+      ],
+      "awards": [
+        "National Award for Allu Arjun"
+      ]
+    },
+    {
+      "id": "MV013",
+      "title": "Lagaan",
+      "year": 2001,
+      "director": "Ashutosh Gowariker",
+      "cast": [
+        "Aamir Khan"
+      ],
+      "awards": [
+        "Oscar nominated Best Foreign Language Film"
+      ]
+    },
+    {
+      "id": "MV014",
+      "title": "PK",
+      "year": 2014,
+      "director": "Rajkumar Hirani",
+      "cast": [
+        "Aamir Khan",
+        "Anushka Sharma"
+      ],
+      "box_office": "₹830 crore"
+    },
+    {
+      "id": "MV015",
+      "title": "Kabhi Khushi Kabhie Gham",
+      "year": 2001,
+      "cast": [
+        "Amitabh Bachchan",
+        "Shah Rukh Khan",
+        "Kajol",
+        "Kareena Kapoor"
+      ]
+    },
+    {
+      "id": "MV016",
+      "title": "Kuch Kuch Hota Hai",
+      "year": 1998,
+      "director": "Karan Johar",
+      "cast": [
+        "Shah Rukh Khan",
+        "Kajol",
+        "Rani Mukerji"
+      ]
+    },
+    {
+      "id": "MV017",
+      "title": "My Name Is Khan",
+      "year": 2010,
+      "director": "Karan Johar",
+      "cast": [
+        "Shah Rukh Khan",
+        "Kajol"
+      ]
+    },
+    {
+      "id": "MV018",
+      "title": "Bajrangi Bhaijaan",
+      "year": 2015,
+      "director": "Kabir Khan",
+      "cast": [
+        "Salman Khan",
+        "Harshaali Malhotra"
+      ]
+    },
+    {
+      "id": "MV019",
+      "title": "Andhadhun",
+      "year": 2018,
+      "director": "Sriram Raghavan",
+      "cast": [
+        "Ayushmann Khurrana",
+        "Tabu"
+      ]
+    },
+    {
+      "id": "MV020",
+      "title": "Gangs of Wasseypur",
+      "year": 2012,
+      "director": "Anurag Kashyap",
+      "cast": [
+        "Nawazuddin Siddiqui",
+        "Manoj Bajpayee"
+      ]
+    },
+    {
+      "id": "MV021",
+      "title": "The Shawshank Redemption",
+      "year": 1994,
+      "director": "Frank Darabont",
+      "industry": "Hollywood",
+      "imdb": 9.3
+    },
+    {
+      "id": "MV022",
+      "title": "The Godfather",
+      "year": 1972,
+      "director": "Francis Ford Coppola",
+      "industry": "Hollywood",
+      "imdb": 9.2
+    },
+    {
+      "id": "MV023",
+      "title": "The Dark Knight",
+      "year": 2008,
+      "director": "Christopher Nolan",
+      "cast": [
+        "Christian Bale",
+        "Heath Ledger"
+      ],
+      "imdb": 9
+    },
+    {
+      "id": "MV024",
+      "title": "Interstellar",
+      "year": 2014,
+      "director": "Christopher Nolan",
+      "industry": "Hollywood",
+      "imdb": 8.7
+    },
+    {
+      "id": "MV025",
+      "title": "Avengers: Endgame",
+      "year": 2019,
+      "industry": "Hollywood",
+      "box_office": "$2.8 billion"
+    },
+    {
+      "id": "MV026",
+      "title": "Inception",
+      "year": 2010,
+      "director": "Christopher Nolan",
+      "imdb": 8.8
+    },
+    {
+      "id": "MV027",
+      "title": "Parasite",
+      "year": 2019,
+      "director": "Bong Joon-ho",
+      "awards": [
+        "Best Picture Oscar 2020"
+      ]
+    },
+    {
+      "id": "MV028",
+      "title": "Drishyam",
+      "year": 2015,
+      "cast": [
+        "Ajay Devgn",
+        "Tabu"
+      ],
+      "industry": "Bollywood"
+    },
+    {
+      "id": "MV029",
+      "title": "Tumbbad",
+      "year": 2018,
+      "director": "Rahi Anil Barve",
+      "genre": "Horror/Fantasy",
+      "imdb": 8.2
+    },
+    {
+      "id": "MV030",
+      "title": "Taare Zameen Par",
+      "year": 2007,
+      "director": "Aamir Khan",
+      "genre": "Drama",
+      "imdb": 8.4
+    }
+  ],
+  "companies": [
+    {
+      "id": "CO001",
+      "name": "Tata Group",
+      "founder": "Jamsetji Tata",
+      "founded": 1868,
+      "headquarters": "Mumbai",
+      "CEO": "N. Chandrasekaran",
+      "revenue": "$128 billion (2023)",
+      "significance": "India's largest conglomerate"
+    },
+    {
+      "id": "CO002",
+      "name": "Reliance Industries",
+      "founder": "Dhirubhai Ambani",
+      "founded": 1966,
+      "headquarters": "Mumbai",
+      "CEO": "Mukesh Ambani",
+      "significance": "India's most valuable company, Jio telecom"
+    },
+    {
+      "id": "CO003",
+      "name": "Infosys",
+      "founder": "N.R. Narayana Murthy",
+      "founded": 1981,
+      "headquarters": "Bangalore",
+      "CEO": "Salil Parekh",
+      "revenue": "$18.2 billion (2023)"
+    },
+    {
+      "id": "CO004",
+      "name": "TCS",
+      "full_name": "Tata Consultancy Services",
+      "founded": 1968,
+      "CEO": "K. Krithivasan",
+      "revenue": "$27 billion",
+      "significance": "India's largest IT company"
+    },
+    {
+      "id": "CO005",
+      "name": "Wipro",
+      "founder": "Azim Premji",
+      "founded": 1945,
+      "CEO": "Srinivas Pallia"
+    },
+    {
+      "id": "CO006",
+      "name": "Flipkart",
+      "founder": "Sachin Bansal, Binny Bansal",
+      "founded": 2007,
+      "owner": "Walmart 81%",
+      "significance": "India's largest e-commerce"
+    },
+    {
+      "id": "CO007",
+      "name": "Zomato",
+      "founder": "Deepinder Goyal",
+      "founded": 2008,
+      "significance": "India's largest food delivery"
+    },
+    {
+      "id": "CO008",
+      "name": "Swiggy",
+      "founded": 2014,
+      "significance": "Major food delivery platform"
+    },
+    {
+      "id": "CO009",
+      "name": "Mahindra Group",
+      "founded": 1945,
+      "CEO": "Anish Shah",
+      "sector": "Automotive, IT, Finance"
+    },
+    {
+      "id": "CO010",
+      "name": "HDFC Bank",
+      "founded": 1994,
+      "CEO": "Sashidhar Jagdishan",
+      "significance": "India's largest private bank"
+    }
+  ],
+  "ceos_founders": [
+    {
+      "id": "CF001",
+      "full_name": "Mukesh Ambani",
+      "company": "Reliance Industries",
+      "net_worth": "$83 billion (2024)",
+      "born": "April 19, 1957",
+      "achievements": [
+        "Asia's richest person",
+        "Jio transformed telecom"
+      ]
+    },
+    {
+      "id": "CF002",
+      "full_name": "Ratan Tata",
+      "company": "Tata Group",
+      "born": "December 28, 1937",
+      "died": "October 9, 2024",
+      "achievements": [
+        "Acquired Jaguar Land Rover",
+        "Tata Nano cheapest car",
+        "Philanthropist"
+      ],
+      "awards": [
+        "Padma Vibhushan"
+      ]
+    },
+    {
+      "id": "CF003",
+      "full_name": "N.R. Narayana Murthy",
+      "company": "Infosys",
+      "born": "August 20, 1946",
+      "achievements": [
+        "Founded Infosys with ₹10,000 in 1981"
+      ]
+    },
+    {
+      "id": "CF004",
+      "full_name": "Sundar Pichai",
+      "company": "Google/Alphabet CEO",
+      "born": "June 10, 1972",
+      "birth_place": "Madurai, Tamil Nadu",
+      "education": "IIT Kharagpur, Stanford, Wharton"
+    },
+    {
+      "id": "CF005",
+      "full_name": "Satya Nadella",
+      "company": "Microsoft CEO",
+      "born": "August 19, 1967",
+      "birth_place": "Hyderabad",
+      "achievements": [
+        "Transformed Microsoft",
+        "Azure cloud growth",
+        "OpenAI partnership"
+      ]
+    },
+    {
+      "id": "CF006",
+      "full_name": "Elon Musk",
+      "companies": [
+        "Tesla",
+        "SpaceX",
+        "X",
+        "Neuralink",
+        "xAI"
+      ],
+      "born": "June 28, 1971",
+      "net_worth": "$240 billion (2024)"
+    },
+    {
+      "id": "CF007",
+      "full_name": "Azim Premji",
+      "company": "Wipro",
+      "born": "July 24, 1945",
+      "achievements": [
+        "Built Wipro into IT giant",
+        "Donated $21 billion to charity"
+      ]
+    },
+    {
+      "id": "CF008",
+      "full_name": "Deepinder Goyal",
+      "company": "Zomato",
+      "born": "1983",
+      "achievements": [
+        "Founded Zomato 2008",
+        "Acquired Blinkit"
+      ]
+    }
+  ],
+  "famous_places": [
+    {
+      "id": "FP001",
+      "name": "Taj Mahal",
+      "location": "Agra, Uttar Pradesh",
+      "built": "1632-1653",
+      "built_by": "Shah Jahan",
+      "history": "Built in memory of wife Mumtaz Mahal",
+      "UNESCO": true,
+      "7_wonders": true
+    },
+    {
+      "id": "FP002",
+      "name": "Red Fort",
+      "location": "Delhi",
+      "built": "1638-1648",
+      "significance": "PM addresses nation on Independence Day",
+      "UNESCO": true
+    },
+    {
+      "id": "FP003",
+      "name": "India Gate",
+      "location": "New Delhi",
+      "built": "1921-1931",
+      "significance": "War memorial for 70,000 Indian soldiers of WWI"
+    },
+    {
+      "id": "FP004",
+      "name": "Qutub Minar",
+      "location": "Delhi",
+      "height": "72.5 meters",
+      "UNESCO": true,
+      "significance": "World's tallest brick minaret"
+    },
+    {
+      "id": "FP005",
+      "name": "Golden Temple",
+      "location": "Amritsar, Punjab",
+      "significance": "Holiest Sikh shrine, serves 100,000 free meals daily"
+    },
+    {
+      "id": "FP006",
+      "name": "Gateway of India",
+      "location": "Mumbai",
+      "built": "1924",
+      "significance": "Last British troops left from here"
+    },
+    {
+      "id": "FP007",
+      "name": "Hampi",
+      "location": "Karnataka",
+      "significance": "Vijayanagara Empire ruins",
+      "UNESCO": true
+    },
+    {
+      "id": "FP008",
+      "name": "Ajanta Ellora Caves",
+      "location": "Aurangabad, Maharashtra",
+      "UNESCO": true
+    },
+    {
+      "id": "FP009",
+      "name": "Konark Sun Temple",
+      "location": "Odisha",
+      "UNESCO": true,
+      "significance": "Designed as giant chariot with 24 wheels"
+    },
+    {
+      "id": "FP010",
+      "name": "Meenakshi Temple",
+      "location": "Madurai, Tamil Nadu",
+      "significance": "14 gopurams, ancient Dravidian architecture"
+    }
+  ],
+  "states": [
+    {
+      "id": "ST001",
+      "name": "Uttar Pradesh",
+      "capital": "Lucknow",
+      "population": "241 million",
+      "language": "Hindi",
+      "CM": "Yogi Adityanath",
+      "famous_for": "Agra, Varanasi, Ayodhya, Mathura"
+    },
+    {
+      "id": "ST002",
+      "name": "Maharashtra",
+      "capital": "Mumbai",
+      "population": "128 million",
+      "language": "Marathi",
+      "CM": "Devendra Fadnavis"
+    },
+    {
+      "id": "ST003",
+      "name": "Rajasthan",
+      "capital": "Jaipur",
+      "population": "82 million",
+      "language": "Hindi/Rajasthani",
+      "famous_for": "Jaipur Pink City, Jodhpur, Udaipur, Jaisalmer Desert"
+    },
+    {
+      "id": "ST004",
+      "name": "Tamil Nadu",
+      "capital": "Chennai",
+      "population": "78 million",
+      "language": "Tamil",
+      "CM": "M K Stalin"
+    },
+    {
+      "id": "ST005",
+      "name": "Kerala",
+      "capital": "Thiruvananthapuram",
+      "population": "35 million",
+      "language": "Malayalam",
+      "famous_for": "100% literacy, backwaters, Ayurveda, spices"
+    },
+    {
+      "id": "ST006",
+      "name": "Gujarat",
+      "capital": "Gandhinagar",
+      "population": "70 million",
+      "language": "Gujarati",
+      "famous_for": "Statue of Unity, Somnath, Gir Lions, Garba"
+    },
+    {
+      "id": "ST007",
+      "name": "West Bengal",
+      "capital": "Kolkata",
+      "population": "99 million",
+      "language": "Bengali",
+      "CM": "Mamata Banerjee"
+    },
+    {
+      "id": "ST008",
+      "name": "Karnataka",
+      "capital": "Bengaluru",
+      "population": "67 million",
+      "language": "Kannada",
+      "CM": "Siddaramaiah"
+    },
+    {
+      "id": "ST009",
+      "name": "Punjab",
+      "capital": "Chandigarh",
+      "population": "31 million",
+      "language": "Punjabi",
+      "CM": "Bhagwant Mann"
+    },
+    {
+      "id": "ST010",
+      "name": "Madhya Pradesh",
+      "capital": "Bhopal",
+      "population": "85 million",
+      "language": "Hindi",
+      "famous_for": "Bhopal, Indore (cleanest city), Gwalior, Khajuraho"
+    },
+    {
+      "id": "ST011",
+      "name": "Telangana",
+      "capital": "Hyderabad",
+      "population": "38 million",
+      "language": "Telugu",
+      "CM": "Revanth Reddy"
+    },
+    {
+      "id": "ST012",
+      "name": "Andhra Pradesh",
+      "capital": "Amaravati",
+      "population": "53 million",
+      "language": "Telugu",
+      "CM": "Chandrababu Naidu"
+    },
+    {
+      "id": "ST013",
+      "name": "Bihar",
+      "capital": "Patna",
+      "population": "130 million",
+      "language": "Hindi/Maithili",
+      "CM": "Nitish Kumar"
+    },
+    {
+      "id": "ST014",
+      "name": "Odisha",
+      "capital": "Bhubaneswar",
+      "population": "47 million",
+      "language": "Odia"
+    },
+    {
+      "id": "ST015",
+      "name": "Assam",
+      "capital": "Dispur",
+      "population": "36 million",
+      "language": "Assamese",
+      "CM": "Himanta Biswa Sarma"
+    }
+  ],
+  "cities": [
+    {
+      "id": "CI001",
+      "name": "Mumbai",
+      "state": "Maharashtra",
+      "population": "20 million",
+      "nickname": "City of Dreams, Financial Capital, Bollywood Capital"
+    },
+    {
+      "id": "CI002",
+      "name": "Delhi",
+      "state": "NCT",
+      "population": "31 million",
+      "nickname": "Heart of India"
+    },
+    {
+      "id": "CI003",
+      "name": "Bengaluru",
+      "state": "Karnataka",
+      "nickname": "Silicon Valley of India, Garden City"
+    },
+    {
+      "id": "CI004",
+      "name": "Hyderabad",
+      "state": "Telangana",
+      "nickname": "City of Pearls, Biryani Capital"
+    },
+    {
+      "id": "CI005",
+      "name": "Chennai",
+      "state": "Tamil Nadu",
+      "nickname": "Detroit of India, Gateway to South India"
+    },
+    {
+      "id": "CI006",
+      "name": "Kolkata",
+      "state": "West Bengal",
+      "nickname": "City of Joy, Cultural Capital"
+    },
+    {
+      "id": "CI007",
+      "name": "Jaipur",
+      "state": "Rajasthan",
+      "nickname": "Pink City"
+    },
+    {
+      "id": "CI008",
+      "name": "Varanasi",
+      "state": "Uttar Pradesh",
+      "nickname": "City of Light, Kashi, Banaras, oldest living city"
+    },
+    {
+      "id": "CI009",
+      "name": "Agra",
+      "state": "Uttar Pradesh",
+      "famous_for": "Taj Mahal, Agra Fort"
+    },
+    {
+      "id": "CI010",
+      "name": "Indore",
+      "state": "Madhya Pradesh",
+      "nickname": "Mini Mumbai, Cleanest City of India",
+      "famous_for": "7x India's cleanest city, best street food, Rajwada Palace, Salman Khan birthplace"
+    },
+    {
+      "id": "CI011",
+      "name": "Goa",
+      "state": "Goa",
+      "famous_for": "Beaches, Portuguese heritage, tourism"
+    },
+    {
+      "id": "CI012",
+      "name": "Shimla",
+      "state": "Himachal Pradesh",
+      "nickname": "Queen of Hills"
+    },
+    {
+      "id": "CI013",
+      "name": "Manali",
+      "state": "Himachal Pradesh",
+      "famous_for": "Snow, Rohtang Pass, adventure sports"
+    },
+    {
+      "id": "CI014",
+      "name": "Leh Ladakh",
+      "state": "UT Ladakh",
+      "famous_for": "Highest motorable roads, Pangong Lake, Buddhist monasteries"
+    },
+    {
+      "id": "CI015",
+      "name": "Amritsar",
+      "state": "Punjab",
+      "famous_for": "Golden Temple, Wagah border, Jallianwala Bagh"
+    },
+    {
+      "id": "CI016",
+      "name": "Haridwar",
+      "state": "Uttarakhand",
+      "famous_for": "Har Ki Pauri ghat, Ganga Aarti"
+    },
+    {
+      "id": "CI017",
+      "name": "Rishikesh",
+      "state": "Uttarakhand",
+      "famous_for": "Yoga capital, adventure sports, Ram Jhula, Laxman Jhula"
+    },
+    {
+      "id": "CI018",
+      "name": "Udaipur",
+      "state": "Rajasthan",
+      "nickname": "City of Lakes, Venice of the East"
+    },
+    {
+      "id": "CI019",
+      "name": "Jodhpur",
+      "state": "Rajasthan",
+      "nickname": "Blue City, Sun City"
+    },
+    {
+      "id": "CI020",
+      "name": "Jaisalmer",
+      "state": "Rajasthan",
+      "nickname": "Golden City"
+    },
+    {
+      "id": "CI021",
+      "name": "Coorg",
+      "state": "Karnataka",
+      "nickname": "Scotland of India, Coffee Capital"
+    },
+    {
+      "id": "CI022",
+      "name": "Darjeeling",
+      "state": "West Bengal",
+      "famous_for": "Tea gardens, toy train, Kanchenjunga view"
+    },
+    {
+      "id": "CI023",
+      "name": "Puri",
+      "state": "Odisha",
+      "famous_for": "Jagannath Temple, Rath Yatra"
+    },
+    {
+      "id": "CI024",
+      "name": "Tirupati",
+      "state": "Andhra Pradesh",
+      "famous_for": "Venkateswara Temple (richest temple world)"
+    },
+    {
+      "id": "CI025",
+      "name": "Kochi",
+      "state": "Kerala",
+      "famous_for": "Backwaters, Chinese fishing nets, cultural hub"
+    },
+    {
+      "id": "CI026",
+      "name": "Mysuru",
+      "state": "Karnataka",
+      "nickname": "City of Palaces",
+      "famous_for": "Mysore Palace, Dasara festival, silk"
+    },
+    {
+      "id": "CI027",
+      "name": "Chandigarh",
+      "state": "Punjab/Haryana UT",
+      "famous_for": "Planned city, Rock Garden, cleanest cities"
+    },
+    {
+      "id": "CI028",
+      "name": "Pune",
+      "state": "Maharashtra",
+      "nickname": "Oxford of the East, Queen of Deccan"
+    },
+    {
+      "id": "CI029",
+      "name": "Surat",
+      "state": "Gujarat",
+      "famous_for": "Diamond cutting, textile hub"
+    },
+    {
+      "id": "CI030",
+      "name": "Bhopal",
+      "state": "Madhya Pradesh",
+      "nickname": "City of Lakes, Heart of India"
+    }
+  ],
+  "historical_places": [
+    {
+      "id": "HP001",
+      "name": "Mohenjo-daro",
+      "location": "Pakistan (Sindh)",
+      "period": "2500-1700 BCE",
+      "significance": "Indus Valley Civilization city"
+    },
+    {
+      "id": "HP002",
+      "name": "Nalanda University",
+      "location": "Nalanda, Bihar",
+      "period": "5th-12th century CE",
+      "significance": "World's first residential university"
+    },
+    {
+      "id": "HP003",
+      "name": "Sanchi Stupa",
+      "location": "Sanchi, Madhya Pradesh",
+      "period": "3rd century BCE",
+      "built_by": "Emperor Ashoka",
+      "UNESCO": true
+    },
+    {
+      "id": "HP004",
+      "name": "Fatehpur Sikri",
+      "location": "Agra, Uttar Pradesh",
+      "built_by": "Akbar",
+      "UNESCO": true
+    },
+    {
+      "id": "HP005",
+      "name": "Lothal",
+      "location": "Gujarat",
+      "period": "2400-1900 BCE",
+      "significance": "Ancient Indus Valley port city"
+    }
+  ],
+  "monuments": [
+    {
+      "id": "MO001",
+      "name": "Statue of Unity",
+      "location": "Kevadiya, Gujarat",
+      "height": "182 meters",
+      "significance": "World's tallest statue, Sardar Patel memorial",
+      "completed": 2018
+    },
+    {
+      "id": "MO002",
+      "name": "Chhatrapati Shivaji Maharaj Terminus",
+      "location": "Mumbai",
+      "UNESCO": true,
+      "significance": "Victorian Gothic architecture"
+    },
+    {
+      "id": "MO003",
+      "name": "Victoria Memorial",
+      "location": "Kolkata",
+      "built": "1906-1921"
+    },
+    {
+      "id": "MO004",
+      "name": "Lotus Temple",
+      "location": "New Delhi",
+      "significance": "Bahai House of Worship, lotus-shaped architecture"
+    }
+  ],
+  "space_organizations": [
+    {
+      "id": "SP001",
+      "name": "ISRO",
+      "full_name": "Indian Space Research Organisation",
+      "founded": "August 15, 1969",
+      "headquarters": "Bangalore",
+      "chairman": "S. Somnath",
+      "achievements": [
+        "Chandrayaan-1 2008 found water on Moon",
+        "Mangalyaan 2014 first Mars mission Asia",
+        "Chandrayaan-3 2023 first south pole landing",
+        "Aditya-L1 solar mission 2023",
+        "PSLV most reliable rocket",
+        "Record 104 satellites in one mission"
+      ]
+    },
+    {
+      "id": "SP002",
+      "name": "NASA",
+      "country": "USA",
+      "founded": "1958",
+      "achievements": [
+        "Apollo 11 Moon 1969",
+        "Mars rovers",
+        "Hubble",
+        "James Webb telescope"
+      ]
+    },
+    {
+      "id": "SP003",
+      "name": "DRDO",
+      "full_name": "Defence Research Development Organisation",
+      "founded": "1958",
+      "achievements": [
+        "Agni Prithvi missiles",
+        "Arjun tank",
+        "Tejas fighter",
+        "BrahMos missile"
+      ]
+    }
+  ],
+  "sports": [
+    {
+      "sport": "Cricket",
+      "governing_body": "BCCI",
+      "India_world_cups": [
+        "1983 Kapil Dev",
+        "2007 T20 Dhoni",
+        "2011 ODI Dhoni",
+        "2024 T20 Rohit Sharma"
+      ],
+      "famous_tournaments": [
+        "IPL",
+        "Ranji Trophy",
+        "Duleep Trophy"
+      ]
+    },
+    {
+      "sport": "Hockey",
+      "significance": "India's National Sport",
+      "olympics": "8 gold medals",
+      "legends": [
+        "Dhyan Chand",
+        "Balbir Singh Sr"
+      ]
+    },
+    {
+      "sport": "Chess",
+      "India_contribution": "Chess originated in India as Chaturanga",
+      "legends": [
+        "Viswanathan Anand - 5 World Champion titles"
+      ]
+    },
+    {
+      "sport": "Badminton",
+      "legends": [
+        "PV Sindhu - 2 Olympic medals",
+        "Saina Nehwal - Olympic bronze"
+      ],
+      "governing_body": "BAI"
+    },
+    {
+      "sport": "Wrestling",
+      "Olympics": "Multiple medals",
+      "legends": [
+        "Sushil Kumar - 2 Olympic medals",
+        "Bajrang Punia",
+        "Vinesh Phogat",
+        "Sakshi Malik"
+      ]
+    },
+    {
+      "sport": "Boxing",
+      "Olympics": "Medals",
+      "legends": [
+        "MC Mary Kom - 6x World Champion",
+        "Vijender Singh - Olympic bronze"
+      ]
+    },
+    {
+      "sport": "Athletics",
+      "legends": [
+        "Neeraj Chopra - Gold Olympic javelin 2020",
+        "PT Usha - Queen of Indian Track"
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "id": "AW001",
+      "name": "Bharat Ratna",
+      "significance": "Highest civilian honor of India"
+    },
+    {
+      "id": "AW002",
+      "name": "Padma Vibhushan",
+      "significance": "2nd highest civilian honor"
+    },
+    {
+      "id": "AW003",
+      "name": "Padma Bhushan",
+      "significance": "3rd highest civilian honor"
+    },
+    {
+      "id": "AW004",
+      "name": "Padma Shri",
+      "significance": "4th highest civilian honor"
+    },
+    {
+      "id": "AW005",
+      "name": "Arjuna Award",
+      "significance": "National sports award"
+    },
+    {
+      "id": "AW006",
+      "name": "Khel Ratna",
+      "full_name": "Major Dhyan Chand Khel Ratna Award",
+      "significance": "Highest sports honor"
+    },
+    {
+      "id": "AW007",
+      "name": "National Film Award",
+      "significance": "Government film awards"
+    },
+    {
+      "id": "AW008",
+      "name": "Filmfare Award",
+      "significance": "Oldest Bollywood awards"
+    }
+  ],
+  "festivals": [
+    {
+      "id": "FE001",
+      "name": "Diwali",
+      "also_known": "Festival of Lights, Deepawali",
+      "when": "October/November",
+      "significance": "Lord Ram's return, victory of light over darkness"
+    },
+    {
+      "id": "FE002",
+      "name": "Holi",
+      "also_known": "Festival of Colors",
+      "when": "March",
+      "significance": "Spring arrival, victory of Prahlad over Holika"
+    },
+    {
+      "id": "FE003",
+      "name": "Eid ul-Fitr",
+      "when": "After Ramadan",
+      "celebrated_by": "Muslims"
+    },
+    {
+      "id": "FE004",
+      "name": "Christmas",
+      "when": "December 25",
+      "celebrated_by": "Christians"
+    },
+    {
+      "id": "FE005",
+      "name": "Navratri",
+      "when": "September/October 9 days",
+      "significance": "9 forms of Goddess Durga, Garba dance"
+    },
+    {
+      "id": "FE006",
+      "name": "Durga Puja",
+      "when": "October",
+      "celebrated_by": "Bengalis",
+      "significance": "Durga's victory over Mahishasura"
+    },
+    {
+      "id": "FE007",
+      "name": "Ganesh Chaturthi",
+      "when": "August/September 10 days",
+      "significance": "Birth of Lord Ganesha, Maharashtra special"
+    },
+    {
+      "id": "FE008",
+      "name": "Onam",
+      "when": "August/September",
+      "celebrated_by": "Kerala",
+      "significance": "King Mahabali's annual visit, harvest festival"
+    },
+    {
+      "id": "FE009",
+      "name": "Pongal",
+      "when": "January 14-17",
+      "celebrated_by": "Tamil Nadu",
+      "significance": "Harvest festival"
+    },
+    {
+      "id": "FE010",
+      "name": "Baisakhi",
+      "when": "April 13/14",
+      "celebrated_by": "Punjab/Sikhs",
+      "significance": "Sikh New Year, Khalsa founding 1699"
+    }
+  ],
+  "important_dates": [
+    {
+      "date": "January 26",
+      "event": "Republic Day",
+      "significance": "Constitution came into force 1950"
+    },
+    {
+      "date": "August 15",
+      "event": "Independence Day",
+      "significance": "India became independent 1947"
+    },
+    {
+      "date": "October 2",
+      "event": "Gandhi Jayanti",
+      "significance": "Mahatma Gandhi birthday, International Non-Violence Day"
+    },
+    {
+      "date": "November 14",
+      "event": "Children's Day",
+      "significance": "Jawaharlal Nehru birthday"
+    },
+    {
+      "date": "November 26",
+      "event": "Constitution Day",
+      "significance": "Constitution adopted 1949"
+    },
+    {
+      "date": "October 31",
+      "event": "National Unity Day",
+      "significance": "Sardar Patel birthday"
+    },
+    {
+      "date": "April 14",
+      "event": "Ambedkar Jayanti",
+      "significance": "Dr BR Ambedkar birthday"
+    },
+    {
+      "date": "July 27",
+      "event": "Kargil Vijay Diwas",
+      "significance": "India's Kargil War victory 1999"
+    },
+    {
+      "date": "September 5",
+      "event": "Teachers Day",
+      "significance": "Dr Radhakrishnan birthday"
+    },
+    {
+      "date": "March 23",
+      "event": "Bhagat Singh Shaheed Diwas",
+      "significance": "Bhagat Singh, Rajguru, Sukhdev martyrdom 1931"
+    }
+  ],
+  "indian_history": [
+    {
+      "era": "Indus Valley Civilization",
+      "period": "3300-1300 BCE",
+      "sites": [
+        "Harappa",
+        "Mohenjo-daro",
+        "Lothal",
+        "Dholavira"
+      ]
+    },
+    {
+      "era": "Vedic Period",
+      "period": "1500-500 BCE",
+      "significance": "Vedas composed, Sanskrit language"
+    },
+    {
+      "era": "Maurya Empire",
+      "period": "322-185 BCE",
+      "rulers": [
+        "Chandragupta Maurya",
+        "Bindusara",
+        "Ashoka"
+      ],
+      "significance": "First pan-Indian empire, Ashoka spread Buddhism"
+    },
+    {
+      "era": "Gupta Empire",
+      "period": "320-550 CE",
+      "significance": "Golden Age, science mathematics art flourished, Aryabhata, Kalidasa"
+    },
+    {
+      "era": "Mughal Empire",
+      "period": "1526-1857",
+      "rulers": [
+        "Babur",
+        "Humayun",
+        "Akbar",
+        "Jahangir",
+        "Shah Jahan",
+        "Aurangzeb"
+      ]
+    },
+    {
+      "era": "Maratha Empire",
+      "period": "1674-1818",
+      "founder": "Chhatrapati Shivaji Maharaj"
+    },
+    {
+      "era": "British East India Company",
+      "period": "1600-1858"
+    },
+    {
+      "era": "British Raj",
+      "period": "1858-1947",
+      "started_after": "1857 First War of Independence"
+    },
+    {
+      "era": "Independence Movement",
+      "period": "1857-1947",
+      "key_events": [
+        "1857 Mutiny",
+        "1919 Jallianwala Bagh",
+        "1930 Dandi March",
+        "1942 Quit India",
+        "1947 Independence"
+      ]
+    },
+    {
+      "era": "Independent India",
+      "period": "1947-present",
+      "PM_list": [
+        "Nehru 1947-64",
+        "Shastri 1964-66",
+        "Indira Gandhi 1966-77",
+        "Morarji Desai 1977-79",
+        "Charan Singh 1979-80",
+        "Indira Gandhi 1980-84",
+        "Rajiv Gandhi 1984-89",
+        "VP Singh 1989-90",
+        "Chandra Shekhar 1990-91",
+        "Narasimha Rao 1991-96",
+        "Deve Gowda 1996-97",
+        "IK Gujral 1997-98",
+        "Vajpayee 1998-2004",
+        "Manmohan Singh 2004-2014",
+        "Modi 2014-present"
+      ]
+    }
+  ],
+  "indian_constitution": [
+    {
+      "topic": "Preamble",
+      "content": "Sovereign Socialist Secular Democratic Republic - Justice Liberty Equality Fraternity"
+    },
+    {
+      "topic": "Adoption",
+      "date": "November 26, 1949",
+      "effective": "January 26, 1950"
+    },
+    {
+      "topic": "Architect",
+      "person": "Dr. B.R. Ambedkar"
+    },
+    {
+      "topic": "Fundamental Rights",
+      "articles": "12-35"
+    },
+    {
+      "topic": "Directive Principles",
+      "articles": "36-51"
+    },
+    {
+      "topic": "Fundamental Duties",
+      "article": "51A",
+      "count": 11
+    },
+    {
+      "topic": "Parts",
+      "count": 25
+    },
+    {
+      "topic": "Schedules",
+      "count": 12
+    },
+    {
+      "topic": "Amendments",
+      "count": "105+",
+      "notable": [
+        "42nd Mini Constitution 1976",
+        "44th 1978",
+        "73rd 74th Panchayati Raj",
+        "101st GST",
+        "103rd EWS Reservation"
+      ]
+    }
+  ],
+  "iit_topics": [
+    {
+      "subject": "Physics",
+      "topics": [
+        "Mechanics",
+        "Thermodynamics",
+        "Electromagnetism",
+        "Optics",
+        "Modern Physics"
+      ]
+    },
+    {
+      "subject": "Mathematics",
+      "topics": [
+        "Calculus",
+        "Coordinate Geometry",
+        "Algebra",
+        "Trigonometry",
+        "Vectors",
+        "3D Geometry",
+        "Probability"
+      ]
+    },
+    {
+      "subject": "Chemistry",
+      "topics": [
+        "Organic Chemistry",
+        "Inorganic Chemistry",
+        "Physical Chemistry",
+        "Electrochemistry"
+      ]
+    }
+  ],
+  "physics_formulas": [
+    {
+      "formula": "F = ma",
+      "name": "Newton's Second Law",
+      "variables": "F=Force(N), m=mass(kg), a=acceleration(m/s²)"
+    },
+    {
+      "formula": "E = mc²",
+      "name": "Einstein Mass-Energy Equivalence",
+      "c": "3×10⁸ m/s"
+    },
+    {
+      "formula": "KE = ½mv²",
+      "name": "Kinetic Energy"
+    },
+    {
+      "formula": "PE = mgh",
+      "name": "Potential Energy"
+    },
+    {
+      "formula": "v = u + at",
+      "name": "1st Equation of Motion"
+    },
+    {
+      "formula": "s = ut + ½at²",
+      "name": "2nd Equation of Motion"
+    },
+    {
+      "formula": "v² = u² + 2as",
+      "name": "3rd Equation of Motion"
+    },
+    {
+      "formula": "F = kq₁q₂/r²",
+      "name": "Coulomb's Law"
+    },
+    {
+      "formula": "PV = nRT",
+      "name": "Ideal Gas Law"
+    },
+    {
+      "formula": "λ = h/mv",
+      "name": "de Broglie Wavelength"
+    },
+    {
+      "formula": "E = hν",
+      "name": "Planck's Equation",
+      "h": "6.626×10⁻³⁴ Js"
+    },
+    {
+      "formula": "V = IR",
+      "name": "Ohm's Law"
+    },
+    {
+      "formula": "P = VI = I²R = V²/R",
+      "name": "Power in circuit"
+    },
+    {
+      "formula": "F = GMm/r²",
+      "name": "Newton's Gravitation Law"
+    }
+  ],
+  "math_formulas": [
+    {
+      "formula": "x = (-b ± √(b²-4ac)) / 2a",
+      "name": "Quadratic Formula"
+    },
+    {
+      "formula": "a² + b² = c²",
+      "name": "Pythagorean Theorem"
+    },
+    {
+      "formula": "Area circle = πr², Perimeter = 2πr",
+      "name": "Circle formulas"
+    },
+    {
+      "formula": "Area triangle = ½ × base × height",
+      "name": "Triangle Area"
+    },
+    {
+      "formula": "Volume sphere = (4/3)πr³, SA = 4πr²",
+      "name": "Sphere"
+    },
+    {
+      "formula": "Volume cylinder = πr²h, CSA = 2πrh",
+      "name": "Cylinder"
+    },
+    {
+      "formula": "AP: aₙ = a + (n-1)d, Sₙ = n/2(2a+(n-1)d)",
+      "name": "Arithmetic Progression"
+    },
+    {
+      "formula": "GP: aₙ = arⁿ⁻¹, Sₙ = a(rⁿ-1)/(r-1)",
+      "name": "Geometric Progression"
+    },
+    {
+      "formula": "nCr = n!/(r!(n-r)!), nPr = n!/(n-r)!",
+      "name": "Combinations and Permutations"
+    },
+    {
+      "formula": "sin²θ + cos²θ = 1",
+      "name": "Pythagorean Identity"
+    },
+    {
+      "formula": "d/dx(xⁿ) = nxⁿ⁻¹",
+      "name": "Power Rule Derivative"
+    },
+    {
+      "formula": "∫xⁿ dx = xⁿ⁺¹/(n+1) + C",
+      "name": "Power Rule Integration"
+    }
+  ],
+  "ai_knowledge": [
+    {
+      "topic": "ChatGPT",
+      "company": "OpenAI",
+      "type": "Large Language Model",
+      "versions": [
+        "GPT-3.5",
+        "GPT-4",
+        "GPT-4o",
+        "o1",
+        "o3"
+      ]
+    },
+    {
+      "topic": "Gemini",
+      "company": "Google DeepMind",
+      "type": "Multimodal AI",
+      "versions": [
+        "Gemini 1.0",
+        "1.5",
+        "2.0",
+        "2.5"
+      ]
+    },
+    {
+      "topic": "Claude",
+      "company": "Anthropic",
+      "type": "Constitutional AI",
+      "versions": [
+        "Claude 3",
+        "Claude 3.5",
+        "Claude 4"
+      ]
+    },
+    {
+      "topic": "Machine Learning Types",
+      "types": [
+        "Supervised Learning",
+        "Unsupervised Learning",
+        "Reinforcement Learning",
+        "Self-supervised Learning"
+      ]
+    },
+    {
+      "topic": "Deep Learning",
+      "architectures": [
+        "CNN - images",
+        "RNN/LSTM - sequences",
+        "Transformer - NLP",
+        "GAN - generation",
+        "Diffusion Models - image generation"
+      ]
+    },
+    {
+      "topic": "AI in India",
+      "initiatives": [
+        "IndiaAI Mission",
+        "AI4Bharat",
+        "BharatGPT",
+        "Krutrim AI by Ola"
+      ]
+    }
+  ],
+  "general_knowledge": [
+    {
+      "topic": "Chandrayaan-3",
+      "year": 2023,
+      "significance": "India became 4th country to land on Moon, first near south pole",
+      "lander": "Vikram",
+      "rover": "Pragyan",
+      "date": "August 23, 2023"
+    },
+    {
+      "topic": "Mangalyaan",
+      "year": 2014,
+      "significance": "India's first Mars mission, Asia's first Mars orbiter, achieved on first attempt, cheapest ever"
+    },
+    {
+      "topic": "G20 India 2023",
+      "hosted_in": "New Delhi",
+      "significance": "India hosted G20, African Union joined permanently"
+    },
+    {
+      "topic": "T20 World Cup 2024",
+      "winner": "India",
+      "runner_up": "South Africa",
+      "venue": "USA and Caribbean"
+    },
+    {
+      "topic": "India GDP 2024",
+      "value": "$3.7 trillion",
+      "rank": "5th largest economy"
+    },
+    {
+      "topic": "UPI",
+      "full_name": "Unified Payments Interface",
+      "significance": "World's largest real-time payment system, 14 billion transactions/month"
+    },
+    {
+      "topic": "India Population",
+      "value": "1.44 billion",
+      "rank": "Most populous country 2023 surpassed China"
+    },
+    {
+      "topic": "National Symbols",
+      "animal": "Bengal Tiger",
+      "bird": "Indian Peacock",
+      "flower": "Lotus",
+      "tree": "Banyan",
+      "sport": "Hockey",
+      "river": "Ganga",
+      "song": "Vande Mataram",
+      "anthem": "Jana Gana Mana",
+      "motto": "Satyameva Jayate",
+      "currency": "Indian Rupee ₹"
+    },
+    {
+      "topic": "Important Organizations",
+      "orgs": [
+        "ISRO-Space",
+        "DRDO-Defence",
+        "BARC-Nuclear",
+        "IIT-Education",
+        "IIM-Management",
+        "AIIMS-Medical",
+        "NDA-Military Academy"
+      ]
+    },
+    {
+      "topic": "Indian Economy",
+      "GST": "Goods Services Tax introduced July 1 2017",
+      "demonetization": "November 8 2016",
+      "make_in_india": "September 2014"
+    }
+  ],
+  "_metadata": {
+    "version": "3.0",
+    "last_updated": "2025",
+    "total_entries": "500+",
+    "focus": "India-centric knowledge with global coverage",
+    "author": "MYRA AI Memory System by Montoo Jatav",
+    "usage": "Use memory_engine.py to search and retrieve information"
+  },
+  "preferences": {},
+  "projects": {},
+  "relationships": {},
+  "wishes": {},
+  "notes": {}
+}
